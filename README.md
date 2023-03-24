@@ -22,6 +22,7 @@ Possuo as seguintes certificações:
 <ul>
         <li>
           IBM - Rational Unified Process v7.0
+                SSSS
         </li>
 </ul>
 
