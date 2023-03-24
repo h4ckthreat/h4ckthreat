@@ -34,6 +34,15 @@ Possuo as seguintes certificações:
         <li>
           IBM - Object Oriented Analysis and Design, vUML 2.0
         </li>
+        <li>
+          Fortinet - NSE 1 Network Security Associate
+        </li>
+        <li>
+          Fortinet - NSE 2 Network Security Associate
+        </li>
+        <li>
+          Fortinet - NSE 3 Network Security Associate
+        </li>
 </ul>
 
 <p align="justify">Tenho uma página chamada Decrypt Security que ajuda pessoas da área da computação, cujo objetivo é disponibilizar conteúdo gratuito e de qualidade para o mundo inteiro e introduzir mais pessoas na área da segurança da informação, quem sabe futuramente possa se tornar uma startup, na página existem diversos repositórios, tutoriais e guias para ajudar e orientar as pessoas em seu caminho de cyber security, adoro aprender coisas novas, trabalhar em equipes e ter novas experiências, quero trabalhar fora do Brasil, aprimorar meu inglês e alemão e conhecer novas culturas, pessoas e ter novas experiências, atualmente formado em ciência da computação e em engenharia da computação e me dedico a me tornar um pentester, um analista e desenvolvedor de exploits, um analista de malware e um engenheiro reverso melhor a cada dia.</p>
