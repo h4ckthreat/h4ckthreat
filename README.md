@@ -38,16 +38,16 @@ Jamais considere seus estudos como uma obrigação, mas como uma oportunidade in
       <p>
         🌙 Fazendo conteúdo diário em <a href="https://www.instagram.com/decryptsec/">decryptsec</a>, eu complemento essa escrita com <a href="https://www.youtube.com/@decryptsec">vídeos no Youtube</a>.
       </p>
-      <h3>Outros lugares onde você pode me encontrar</h3>
+      <h3>Outros lugares onde você pode me encontrar:</h3>
       <ul>
         <li>
-          🐦 <a href="https://twitter.com/hackthreat">Siga me no twitter</a>
+          🐦 <a href="https://twitter.com/hackthreat">Siga me no Twitter</a>
         </li>
         <li>
           📺 <a href="https://www.youtube.com/@h4ckthreat/">Inscreva-se no Youtube</a>
         </li>
         <li>
-          📷 <a href="https://www.instagram.com/hackthreat/">Me siga no Instagram</a>
+          📷 <a href="https://www.instagram.com/hackthreat/">Siga me Instagram</a>
         </li>
         <li>
           📬 <a href=mailto:hackthreat@gmail.com>Entre em contato comigo no e-mail</a>
