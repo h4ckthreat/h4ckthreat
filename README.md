@@ -16,7 +16,15 @@
 
 <p align="justify">Pesquisador científico de falhas de segurança e vulnerabilidades de sistemas com ampla experiência na área de TI. Atualmente como foco principal a área da segurança da informação Ofensiva (Red Team).</p>
 
-Possuo conhecimento em: em construção
+Possuo conhecimento em:
+<ul>
+        <li>
+          IBM - Rational Unified Process v7.0
+        </li>
+        <li>
+          IBM - Object Oriented Analysis and Design, vUML 2.0
+        </li>
+</ul>
 
 Possuo as seguintes certificações:
 <ul>
