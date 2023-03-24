@@ -24,7 +24,7 @@ Possuo as seguintes certificações: em construção
 
 <p align="justify">Tenho uma comunidade no Discord chamado Low Level Club junto com mais 5 amigos onde o espaço é voltado para estudantes que desejam aprender e se especializar em programação de baixo nível.</p>  
 
-Vamos tomar um café, estou sempre aberto a aprender coisas novas e discutir ideias malucas. Você pode entrar em contato comigo em: h4ckthreat@gmail.com
+<p align="justify">Vamos tomar um café, estou sempre aberto a aprender coisas novas e discutir ideias malucas. Você pode entrar em contato comigo em: h4ckthreat@gmail.com</p>
 
 Jamais considere seus estudos como uma obrigação, mas como uma oportunidade invejável para aprender a conhecer a beleza libertadora do intelecto para seu próprio prazer pessoal e para proveito da comunidade à qual seu futuro trabalho pertencer. - Albert Einstein
 
