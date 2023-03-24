@@ -16,9 +16,9 @@ Sou apaixonado por tecnologia! Tive meu primeiro contato com computadores quando
 
 Pesquisador científico de falhas de segurança e vulnerabilidades de sistemas com ampla experiência na área de TI. Atualmente como foco principal a área da segurança da informação Ofensiva (Red Team).
 
-Possuo conhecimento em:
+Possuo conhecimento em: <em construção>
 
-Tenho uma página chamada Decrypt Security que ajuda pessoas da área da computação, cujo objetivo é disponibilizar conteúdo gratuito e de qualidade para o mundo inteiro e introduzir mais pessoas na área da segurança da informação, quem sabe futuramente possa se tornar uma startup, na página existem diversos repositórios, tutoriais e guias para ajudar e orientar as pessoas em seu caminho de cyber security, adoro aprender coisas novas, trabalhar em grupos e ter novas experiências, quero trabalhar fora do Brasil, aprimorar meu inglês e alemão e conhecer novas culturas, pessoas e ter novas experiências, atualmente formado em ciência da computação e em engenharia da computação e me dedico a me tornar um pentester, um exploit analyzer, um analista de malware e um engenheiro reverso melhor a cada dia.
+Tenho uma página chamada Decrypt Security que ajuda pessoas da área da computação, cujo objetivo é disponibilizar conteúdo gratuito e de qualidade para o mundo inteiro e introduzir mais pessoas na área da segurança da informação, quem sabe futuramente possa se tornar uma startup, na página existem diversos repositórios, tutoriais e guias para ajudar e orientar as pessoas em seu caminho de cyber security, adoro aprender coisas novas, trabalhar em equipes e ter novas experiências, quero trabalhar fora do Brasil, aprimorar meu inglês e alemão e conhecer novas culturas, pessoas e ter novas experiências, atualmente formado em ciência da computação e em engenharia da computação e me dedico a me tornar um pentester, um exploit analyzer, um analista de malware e um engenheiro reverso melhor a cada dia.
 
 Tenho uma comunidade no Discord chamado Low Level Club junto com mais 5 amigos onde o espaço é voltado para estudantes que desejam aprender e se especializar em programação de baixo nível.  
 
