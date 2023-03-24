@@ -12,7 +12,7 @@
 
 </h4>
 
-<p align="justify"> Sou apaixonado por tecnologia! Tive meu primeiro contato com computadores quando tinha 7 anos e desde então venho descobrindo um pouco mais sobre essa área maravilhosa, gosto da oportunidade que a tecnologia oferece às pessoas, e da proposta de facilitar a vida das pessoas, tenho o sonho de conhecer o mundo inteiro compartilhando todo o meu conhecimento e também adquirindo novas experiências e vivências. Eu acho que o conhecimento é algo que todos devem ter acesso, e eu queria ter a experiência de viver e trabalhar fora do Brasil.
+<p align="justify">Sou apaixonado por tecnologia! Tive meu primeiro contato com computadores quando tinha 7 anos e desde então venho descobrindo um pouco mais sobre essa área maravilhosa, gosto da oportunidade que a tecnologia oferece às pessoas, e da proposta de facilitar a vida das pessoas, tenho o sonho de conhecer o mundo inteiro compartilhando todo o meu conhecimento e também adquirindo novas experiências e vivências. Eu acho que o conhecimento é algo que todos devem ter acesso, e eu queria ter a experiência de viver e trabalhar fora do Brasil.</p>
 
 Pesquisador científico de falhas de segurança e vulnerabilidades de sistemas com ampla experiência na área de TI. Atualmente como foco principal a área da segurança da informação Ofensiva (Red Team).
 
@@ -27,7 +27,6 @@ Tenho uma comunidade no Discord chamado Low Level Club junto com mais 5 amigos o
 Vamos tomar um café, estou sempre aberto a aprender coisas novas e discutir ideias malucas. Você pode entrar em contato comigo em: h4ckthreat@gmail.com
 
 Jamais considere seus estudos como uma obrigação, mas como uma oportunidade invejável para aprender a conhecer a beleza libertadora do intelecto para seu próprio prazer pessoal e para proveito da comunidade à qual seu futuro trabalho pertencer. - Albert Einstein
-</p>
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
