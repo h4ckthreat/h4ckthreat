@@ -16,7 +16,7 @@
 
 <p align="justify">Pesquisador científico de falhas de segurança e vulnerabilidades de sistemas com ampla experiência na área de TI. Atualmente como foco principal a área da segurança da informação Ofensiva (Red Team).</p>
 
-Possuo conhecimento em: <em construção>
+<p align="justify">Possuo conhecimento em: <em construção> </p>
 
 Possuo as seguintes certificações: <em construção>
 
