@@ -26,7 +26,7 @@ Possuo as seguintes certificações: em construção
 
 <p align="justify">Vamos tomar um café, estou sempre aberto a aprender coisas novas e discutir ideias malucas. Você pode entrar em contato comigo em: <a href=mailto:hackthreat@gmail.com>hackthreat@gmail.com</a></p>
 
-<p align="justify">Jamais considere seus estudos como uma obrigação, mas como uma oportunidade invejável para aprender a conhecer a beleza libertadora do intelecto para seu próprio prazer pessoal e para proveito da comunidade à qual seu futuro trabalho pertencer. - <i>Albert Einstein</i></p>
+<p align="justify">Jamais considere seus estudos como uma obrigação, mas como uma oportunidade invejável para aprender a conhecer a beleza libertadora do intelecto para seu próprio prazer pessoal e para proveito da comunidade à qual seu futuro trabalho pertencer. - <br><i>Albert Einstein</i></br></p>
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
