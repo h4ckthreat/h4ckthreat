@@ -38,7 +38,7 @@ Jamais considere seus estudos como uma obrigação, mas como uma oportunidade in
         💻 Projeto focado em conteúdo de qualidade sobre segurança da informação: <a href="https://www.instagram.com/decryptsec/">Decrypt Security<a/>.
       </p>
       <p>
-        🌙 Fazendo conteúdo diário em <a href="https://www.instagram.com/decryptsec/">decryptsec</a>, eu complemento essa escrita com <a href="https://www.youtube.com/@decryptsec">vídeos no Youtube</a>.
+        🌙 Fazendo conteúdo diário em: <a href="https://www.instagram.com/decryptsec/">Decrypt Security</a>, eu complemento essa escrita com <a href="https://www.youtube.com/@decryptsec">vídeos no Youtube</a>.
       </p>
       <h3>Outros lugares onde você pode me encontrar:</h3>
       <ul>
