@@ -47,7 +47,7 @@ Jamais considere seus estudos como uma obrigação, mas como uma oportunidade in
           📺 <a href="https://www.youtube.com/@h4ckthreat/">Inscreva-se no Youtube</a>
         </li>
         <li>
-          📷 <a href="https://www.instagram.com/hackthreat/">Siga me Instagram</a>
+          📷 <a href="https://www.instagram.com/hackthreat/">Siga me no Instagram</a>
         </li>
         <li>
           📬 <a href=mailto:hackthreat@gmail.com>Entre em contato comigo no e-mail</a>
