@@ -22,7 +22,9 @@ Possuo as seguintes certificações:
 <ul>
         <li>
           IBM - Rational Unified Process v7.0
-                SSSS
+        </li>
+        <li>
+          IBM - Object Oriented Analysis and Design, vUML 2.0
         </li>
 </ul>
 
