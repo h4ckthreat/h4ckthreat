@@ -31,7 +31,7 @@ Jamais considere seus estudos como uma obrigação, mas como uma oportunidade in
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 0";>
-      <img width="400" src="https://imgur.com/a/RoFi5uV"/>
+      <img width="400" src="https://i.imgur.com/bXxIgrd.png" />
     </td>
     <td style="border: 0";>
       <p>
