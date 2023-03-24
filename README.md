@@ -21,7 +21,7 @@ Possuo conhecimento em: em construção
 Possuo as seguintes certificações:
 <ul>
         <li>
-          Siga me no Twitter</a>
+          IBM - Rational Unified Process v7.0
         </li>
 </ul>
 
