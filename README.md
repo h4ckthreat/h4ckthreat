@@ -14,7 +14,7 @@
 
 <p align="justify">Sou apaixonado por tecnologia! Tive meu primeiro contato com computadores quando tinha 7 anos e desde então venho descobrindo um pouco mais sobre essa área maravilhosa, gosto da oportunidade que a tecnologia oferece às pessoas, e da proposta de facilitar a vida das pessoas, tenho o sonho de conhecer o mundo inteiro compartilhando todo o meu conhecimento e também adquirindo novas experiências e vivências. Eu acho que o conhecimento é algo que todos devem ter acesso, e eu queria ter a experiência de viver e trabalhar fora do Brasil.</p>
 
-Pesquisador científico de falhas de segurança e vulnerabilidades de sistemas com ampla experiência na área de TI. Atualmente como foco principal a área da segurança da informação Ofensiva (Red Team).
+<p align="justify">Pesquisador científico de falhas de segurança e vulnerabilidades de sistemas com ampla experiência na área de TI. Atualmente como foco principal a área da segurança da informação Ofensiva (Red Team).</p>
 
 Possuo conhecimento em: <em construção>
 
