@@ -14,11 +14,11 @@
 
 Sou apaixonado por tecnologia! Tive meu primeiro contato com computadores quando tinha 7 anos e desde então venho descobrindo um pouco mais sobre essa área maravilhosa, gosto da oportunidade que a tecnologia oferece às pessoas, e da proposta de facilitar a vida das pessoas, tenho o sonho de conhecer o mundo inteiro compartilhando todo o meu conhecimento e também adquirindo novas experiências e vivências. Eu acho que o conhecimento é algo que todos devem ter acesso, e eu queria ter a experiência de viver e trabalhar fora do Brasil.
 
-Pesquisador científico de falhas de segurança e vulnerabilidades de sistemas com ampla experiência na área de TI. Atualmente como foco principal a área de segurança da informação Ofensiva (Red Team).
+Pesquisador científico de falhas de segurança e vulnerabilidades de sistemas com ampla experiência na área de TI. Atualmente como foco principal a área da segurança da informação Ofensiva (Red Team).
 
 Possuo conhecimento em:
 
-Tenho uma página chamada Decrypt Security que quem sabe futuramente possa virar uma empresa que ajuda pessoas da área da computação, cujo objetivo é disponibilizar conteúdo gratuito e de qualidade para o mundo inteiro e introduzir mais pessoas na área da segurança da informação, na página existem diversos repositórios, tutoriais e guias para ajudar e orientar as pessoas em seu caminho de cyber security, adoro saber coisas novas, trabalhar em grupos e ter novas experiências, quero trabalhar fora do Brasil, aprimorar meu inglês e conhecer novas culturas, pessoas e ter novas experiências, atualmente formado em ciência da computação e engenharia da computação e me dedico a me tornar um pentester, um exploit analyzer, um analista de malware e um engenheiro reverso melhor a cada dia.
+Tenho uma página chamada Decrypt Security que quem sabe futuramente possa virar uma empresa que ajuda pessoas da área da computação, cujo objetivo é disponibilizar conteúdo gratuito e de qualidade para o mundo inteiro e introduzir mais pessoas na área da segurança da informação, na página existem diversos repositórios, tutoriais e guias para ajudar e orientar as pessoas em seu caminho de cyber security, adoro aprender coisas novas, trabalhar em grupos e ter novas experiências, quero trabalhar fora do Brasil, aprimorar meu inglês e conhecer novas culturas, pessoas e ter novas experiências, atualmente formado em ciência da computação e em engenharia da computação e me dedico a me tornar um pentester, um exploit analyzer, um analista de malware e um engenheiro reverso melhor a cada dia.
 
 Tenho uma comunidade no Discord chamado Low Level Club junto com mais 5 amigos onde o espaço é voltado para estudantes que desejam aprender e se especializar em programação de baixo nível.  
 
@@ -33,7 +33,7 @@ Jamais considere seus estudos como uma obrigação, mas como uma oportunidade in
     </td>
     <td style="border: 0";>
       <p>
-        💻 Projeto focado em conteúdo de qualidade sobre segurança da informação<a href="https://www.instagram.com/decryptsec/">Decrypt Security<a/>.
+        💻 Projeto focado em conteúdo de qualidade sobre segurança da informação - <a href="https://www.instagram.com/decryptsec/">Decrypt Security<a/>.
       </p>
       <p>
         🌙 Fazendo conteúdo diário em <a href="https://www.instagram.com/decryptsec/">decryptsec</a>, Eu complemento essa escrita com <a href="https://www.youtube.com/@decryptsec">vídeos no Youtube</a>.
