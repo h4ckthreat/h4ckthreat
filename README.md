@@ -22,7 +22,7 @@ Tenho uma página chamada Decrypt Security que quem sabe futuramente possa virar
 
 Tenho uma comunidade no Discord chamado Low Level Club junto com mais 5 amigos onde o espaço é voltado para estudantes que desejam aprender e se especializar em programação de baixo nível.  
 
-Vamos tomar um café, estou sempre aberto a aprender coisas novas e discutir ideias malucas. Você pode entrar em contato comigo em h4ckthreat@gmail.com
+Vamos tomar um café, estou sempre aberto a aprender coisas novas e discutir ideias malucas. Você pode entrar em contato comigo em: h4ckthreat@gmail.com
 
 Jamais considere seus estudos como uma obrigação, mas como uma oportunidade invejável para aprender a conhecer a beleza libertadora do intelecto para seu próprio prazer pessoal e para proveito da comunidade à qual seu futuro trabalho pertencer. - Albert Einstein
 
@@ -36,7 +36,7 @@ Jamais considere seus estudos como uma obrigação, mas como uma oportunidade in
         💻 Projeto focado em conteúdo de qualidade sobre segurança da informação - <a href="https://www.instagram.com/decryptsec/">Decrypt Security<a/>.
       </p>
       <p>
-        🌙 Fazendo conteúdo diário em <a href="https://www.instagram.com/decryptsec/">decryptsec</a>, Eu complemento essa escrita com <a href="https://www.youtube.com/@decryptsec">vídeos no Youtube</a>.
+        🌙 Fazendo conteúdo diário em <a href="https://www.instagram.com/decryptsec/">decryptsec</a>, eu complemento essa escrita com <a href="https://www.youtube.com/@decryptsec">vídeos no Youtube</a>.
       </p>
       <h3>Outros lugares onde você pode me encontrar</h3>
       <ul>
