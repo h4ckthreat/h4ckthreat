@@ -70,6 +70,9 @@ Possuo sólidos conhecimentos em:
           Programação em linguagem Ruby.
         </li>
         <li>
+          Programação em linguagem Rust.
+        </li>
+        <li>
           Programação em linguagem Go.
         </li>
         <li>
