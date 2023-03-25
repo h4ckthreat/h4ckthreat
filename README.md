@@ -28,6 +28,9 @@ Possuo sólidos conhecimentos em:
           Sistemas operacionais Windows, Linux e MacOS.
         </li>
         <li>
+          Montagem, manutenção e configuração de servidores Windows, Linux e MacOS. 
+        </li>
+        <li>
           Programação em linguagem C/C++.
         </li>
         <li>
