@@ -51,6 +51,12 @@ Possuo sólidos conhecimentos em:
         <li>
           Engenharia reversa e análise de malwares.
         </li>
+        <li>
+          Sistemas de prevenção de intrusão (IPS)
+        </li>
+        <li>
+          Sistemas de detecção de intrusão (IDS)
+        </li>
 </ul>
 
 Possuo as seguintes certificações:
