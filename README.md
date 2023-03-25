@@ -19,6 +19,12 @@
 Possuo sólidos conhecimentos em:
 <ul>
         <li>
+          Sistemas operacionais Windows, Linux e MacOS
+        </li>
+        <li>
+          Sistemas operacionais Windows, Linux e MacOS
+        </li>
+        <li>
           Programação em linguagem C/C++
         </li>
         <li>
