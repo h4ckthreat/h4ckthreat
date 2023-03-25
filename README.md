@@ -43,6 +43,9 @@ Possuo sólidos conhecimentos em:
           Segurança da informação e gestão de riscos.
         </li>
         <li>
+          Inteligência de ameaças cibernéticas.
+        </li>
+        <li>
           Criptografia, criptoanálise e segurança de redes.
         </li>
         <li>
