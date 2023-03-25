@@ -37,6 +37,12 @@ Possuo sólidos conhecimentos em:
           Programação em linguagem Assembly.
         </li>
         <li>
+          Programação em linguagem Shell Script.
+        </li>
+        <li>
+          Programação em linguagem PowerShell.
+        </li>
+        <li>
           Programação em linguagem Python.
         </li>
         <li>
