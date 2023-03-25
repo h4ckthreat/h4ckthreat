@@ -60,6 +60,12 @@ Possuo sólidos conhecimentos em:
         <li>
           Programação em linguagem Python.
         </li>
+         <li>
+          Programação em linguagem Haskell.
+        </li>
+        <li>
+          Programação em linguagem Perl.
+        </li>
         <li>
           Programação em linguagem Ruby.
         </li>
