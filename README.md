@@ -40,6 +40,9 @@ Possuo sólidos conhecimentos em:
           Desenvolvimento Web com HTML, CSS e Javascript. 
         </li>
         <li>
+          Implementação, administração e gerenciamento de sistemas de banco de dados. 
+        </li>
+        <li>
           Programação em linguagem C/C++.
         </li>
         <li>
