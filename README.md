@@ -31,13 +31,13 @@ Possuo sólidos conhecimentos em:
           Sistemas operacionais Windows, Linux e MacOS.
         </li>
         <li>
-          Implementação, administração e gerenciamento de redes de computadores.
+          Implantação, administração e gerenciamento de redes de computadores.
         </li>
         <li>
-          implementação, administração e gerenciamento de servidores Windows, Linux e MacOS. 
+          implantação, administração e gerenciamento de servidores Windows, Linux e MacOS. 
         </li>
         <li>
-          Implementação, administração e gerenciamento de sistemas de banco de dados. 
+          Implementação, administração e gerenciamento de sistemas de bancos de dados. 
         </li>
         <li>
           Desenvolvimento Web com HTML, CSS e Javascript. 
