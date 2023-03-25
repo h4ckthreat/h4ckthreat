@@ -37,6 +37,9 @@ Possuo sólidos conhecimentos em:
           Montagem, manutenção e configuração de servidores Windows, Linux e MacOS. 
         </li>
         <li>
+          Desenvolvimento Web com HTML, CSS e Javascript. 
+        </li>
+        <li>
           Programação em linguagem C/C++.
         </li>
         <li>
