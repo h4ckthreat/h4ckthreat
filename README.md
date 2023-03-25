@@ -19,6 +19,9 @@
 Possuo sólidos conhecimentos em:
 <ul>
         <li>
+          Montagem e manutenção de microcomputadores
+        </li>
+        <li>
           Montagem, manutenção e configuração de redes de computadores.
         </li>
         <li>
