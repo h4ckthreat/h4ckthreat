@@ -37,6 +37,13 @@ Possuo sólidos conhecimentos em:
           Programação em linguagem Assembly.
         </li>
         <li>
+          Programação em linguagem Python.
+        </li>
+        <li>
+        <li>
+          Segurança da informação e gestão de riscos.
+        </li>
+        <li>
           Criptografia, criptoanálise e segurança de redes.
         </li>
         <li>
