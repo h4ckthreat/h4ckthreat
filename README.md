@@ -19,16 +19,16 @@
 Possuo sólidos conhecimentos em:
 <ul>
         <li>
-          Sistemas operacionais Windows, Linux e MacOS
+          Montagem, manutenção e configuração de redes de computadores.
         </li>
         <li>
-          Sistemas operacionais Windows, Linux e MacOS
+          Sistemas operacionais Windows, Linux e MacOS.
         </li>
         <li>
-          Programação em linguagem C/C++
+          Programação em linguagem C/C++.
         </li>
         <li>
-          Programação em Assembly
+          Programação em Assembly.
         </li>
         <li>
           Análise forense de redes e sistemas.
