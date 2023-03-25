@@ -37,6 +37,9 @@ Possuo sólidos conhecimentos em:
           Programação em linguagem Assembly.
         </li>
         <li>
+          Criptografia, criptoanálise e segurança de redes.
+        </li>
+        <li>
           Análise forense de redes e sistemas.
         </li>
         <li>
