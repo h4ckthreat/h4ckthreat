@@ -137,7 +137,7 @@ Possuo as seguintes certificações:
       <p align="justify">
         💻 Projeto focado em conteúdos de qualidade sobre segurança da informação: <a href="https://www.instagram.com/decryptsec/">Decrypt Security<a/>.
               <p align="justify">
-        💻 Projeto focado em conteúdos de qualidade sobre segurança da informação: <a href="https://www.instagram.com/decryptsec/">Decrypt Security<a/>.
+        💻 Comunidade voltada para estudantes que desejam aprender e se especializar em programação de baixo nível: <a href="https://www.instagram.com/decryptsec/">Low Level Club<a/>.
       </p>
       <p align="justify">
         🌙 Fazendo conteúdos diários em: <a href="https://www.instagram.com/decryptsec/">Decrypt Security</a>, eu complemento esses conteúdos com: <a href="https://www.youtube.com/@decryptsec">vídeos no Youtube</a>.
