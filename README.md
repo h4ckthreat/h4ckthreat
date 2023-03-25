@@ -40,7 +40,6 @@ Possuo sólidos conhecimentos em:
           Programação em linguagem Python.
         </li>
         <li>
-        <li>
           Segurança da informação e gestão de riscos.
         </li>
         <li>
