@@ -28,7 +28,7 @@ Possuo sólidos conhecimentos em:
           Montagem e manutenção de microcomputadores.
         </li>
         <li>
-          Montagem, manutenção e configuração de redes de computadores.
+          Implementação, administração e gerenciamento de redes de computadores.
         </li>
         <li>
           Sistemas operacionais Windows, Linux e MacOS.
