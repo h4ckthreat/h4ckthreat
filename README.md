@@ -131,7 +131,7 @@ Possuo as seguintes certificações:
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td style="border: 0";>
-      <img width="600" src="https://i.imgur.com/7TxQnFN.png" />
+      <img width="700" src="https://i.imgur.com/7TxQnFN.png" />
     </td>
     <td style="border: 0";>
       <p align="justify">
