@@ -1,8 +1,7 @@
 # Oi, eu sou JADSON 👨🏻‍💻 - @hackthreat
 
 <h4 align="center">
- 
-[![Medium Badge](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=withe)](https://medium.com/@hackthreat)
+
 [![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/hackthreat)](https://www.facebook.com/hackthreat/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hackthreat/)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/hackthreat)](https://www.linkedin.com/in/hackthreat/)
