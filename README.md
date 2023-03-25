@@ -19,41 +19,56 @@
 Possuo conhecimento em:
 <ul>
         <li>
-          IBM - Rational Unified Process v7.0
+          Análise forense de redes e sistemas.
         </li>
         <li>
-          IBM - Object Oriented Analysis and Design, vUML 2.0
+          Auditoria e testes de invasão em redes e sistemas.
+        </li>
+        <li>
+          Auditoria e testes de invasão em redes sem fio.
+        </li>
+        <li>
+          Auditoria e teste de invasão em aplicações Web.
+        </li>
+        <li>
+          Análise e desenvolvimento de exploits.
+        </li>
+        <li>
+          Desenvolvimento seguro de aplicações.
+        </li>
+        <li>
+          Engenharia reversa e análise de malwares.
         </li>
 </ul>
 
 Possuo as seguintes certificações:
 <ul>
         <li>
-          IBM - Rational Unified Process v7.0
+          IBM - Rational Unified Process v7.0.
         </li>
         <li>
-          IBM - Object Oriented Analysis and Design, vUML 2.0
+          IBM - Object Oriented Analysis and Design, vUML 2.0.
         </li>
         <li>
-          Fortinet - NSE 1 Network Security Associate
+          Fortinet - NSE 1 Network Security Associate.
         </li>
         <li>
-          Fortinet - NSE 2 Network Security Associate
+          Fortinet - NSE 2 Network Security Associate.
         </li>
         <li>
-          Fortinet - NSE 3 Network Security Associate
+          Fortinet - NSE 3 Network Security Associate.
         </li>
         <li>
-          IBSEC Certified - Computer Fundamentals
+          IBSEC Certified - Computer Fundamentals.
         </li>
         <li>
-          IBSEC Certified - Network Fundamentals
+          IBSEC Certified - Network Fundamentals.
         </li>
         <li>
-          IBSEC Certified - Cybersecurity Fundamentals
+          IBSEC Certified - Cybersecurity Fundamentals.
         </li>
         <li>
-          IBSEC Certified - Cybersecurity Awareness
+          IBSEC Certified - Cybersecurity Awareness.
         </li>
 </ul>
 
