@@ -28,19 +28,19 @@ Possuo sólidos conhecimentos em:
           Montagem e manutenção de microcomputadores.
         </li>
         <li>
-          Implementação, administração e gerenciamento de redes de computadores.
-        </li>
-        <li>
           Sistemas operacionais Windows, Linux e MacOS.
         </li>
         <li>
-          Montagem, manutenção e configuração de servidores Windows, Linux e MacOS. 
+          Implementação, administração e gerenciamento de redes de computadores.
         </li>
         <li>
-          Desenvolvimento Web com HTML, CSS e Javascript. 
+          implementação, administração e gerenciamento de servidores Windows, Linux e MacOS. 
         </li>
         <li>
           Implementação, administração e gerenciamento de sistemas de banco de dados. 
+        </li>
+        <li>
+          Desenvolvimento Web com HTML, CSS e Javascript. 
         </li>
         <li>
           Programação em linguagem C/C++.
