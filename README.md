@@ -95,7 +95,7 @@ Possuo as seguintes certificações:
       <img width="400" src="https://i.imgur.com/7TxQnFN.png" />
     </td>
     <td style="border: 0";>
-      <p>
+      <p align="justify">
         💻 Projeto focado em conteúdo de qualidade sobre segurança da informação: <a href="https://www.instagram.com/decryptsec/">Decrypt Security<a/>.
       </p>
       <p align="justify">
