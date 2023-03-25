@@ -19,6 +19,12 @@
 Possuo sólidos conhecimentos em:
 <ul>
         <li>
+          Programação em linguagem C/C++
+        </li>
+        <li>
+          Programação em Assembly
+        </li>
+        <li>
           Análise forense de redes e sistemas.
         </li>
         <li>
