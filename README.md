@@ -52,6 +52,9 @@ Possuo sólidos conhecimentos em:
           Análise forense de redes e sistemas.
         </li>
         <li>
+          Penetration testing.
+        </li>
+        <li>
           Auditoria e testes de invasão em redes e sistemas.
         </li>
         <li>
