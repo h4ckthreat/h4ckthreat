@@ -157,6 +157,9 @@ Possuo as seguintes certificações:
          <li>
           ISO/IEC - 27001 Information Security Associate.
         </li>
+        <li>
+          Offensive Security - Certified Professional
+        </li>
 </ul>
 
 <p align="justify">Jamais considere seus estudos como uma obrigação, mas como uma oportunidade invejável para aprender a conhecer a beleza libertadora do intelecto para seu próprio prazer pessoal e para proveito da comunidade à qual seu futuro trabalho pertencer.<br><i>Albert Einstein</i></br></p>
