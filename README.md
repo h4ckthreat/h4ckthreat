@@ -158,7 +158,7 @@ Possuo as seguintes certificações:
           ISO/IEC - 27001 Information Security Associate.
         </li>
         <li>
-          Offensive Security - Certified Professional
+          Offensive Security - Certified Professional.
         </li>
 </ul>
 
