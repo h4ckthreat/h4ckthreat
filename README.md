@@ -20,7 +20,7 @@
 
 <p align="justify">Tenho uma comunidade no Discord chamada <a href="https://www.instagram.com/lowlevelclub/"><i>Low Level Club</i></a> junto com mais 5 amigos onde o espaço é voltado para estudantes que desejam aprender e se especializar em programação de baixo nível.</p>
 
-<p align="justify">Vamos tomar um café, estou sempre aberto a aprender coisas novas e discutir ideias malucas. Você pode entrar em contato comigo em: <a href=mailto:hackthreat@gmail.com>hackthreat@gmail.com</a></p>
+<p align="justify">Vamos tomar um café, estou sempre aberto a aprender coisas novas e discutir ideias malucas. Você pode entrar em contato comigo em: <a href=mailto:hackthreat@gmail.com><i>hackthreat@gmail.com<i/></a></p>
 
 Possuo sólidos conhecimentos em:
 <ul>
