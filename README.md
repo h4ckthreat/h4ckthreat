@@ -1,6 +1,6 @@
 # Oi, eu sou JADSON 👨🏻‍💻 - <a href="https://medium.com/@hackthreat">@hackthreat</a>
 
-<h4 align="center">
+<h4>
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hackthreat/)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/hackthreat)](https://www.linkedin.com/in/hackthreat/)
