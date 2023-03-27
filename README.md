@@ -1,4 +1,4 @@
-# Oi, eu sou JADSON 👨🏻‍💻 - <a href="https://medium.com/@hackthreat">@hackthreat</a>
+# Oi, eu sou JADSON 👨🏻‍💻 - @hackthreat
 
 <h4 align="center">
  
