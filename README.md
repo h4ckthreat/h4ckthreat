@@ -176,21 +176,21 @@ Possuo as seguintes certificações:
         💻 Comunidade voltada para estudantes que desejam aprender e se especializar em programação de baixo nível: <a href="https://www.instagram.com/lowlevelclub/"><i>Low Level Club</i><a/>.
       </p>
       <p align="justify">
-       🌙 Fazendo conteúdos diários em: <a href="https://www.instagram.com/decryptsec/"><i>Decrypt Security</a></i>, eu complemento esses conteúdos com: <a href="https://www.youtube.com/@decryptsec">vídeos no Youtube</a>.
+       🌙 Fazendo conteúdos diários em: <a href="https://www.instagram.com/decryptsec/"><i>Decrypt Security</a></i>, eu complemento esses conteúdos com: <a href="https://www.youtube.com/@decryptsec"><i>vídeos no Youtube</i></a>.
       </p>
       <h3>Outros lugares onde você pode me encontrar:</h3>
       <ul>
         <li>
-          🐦 <a href="https://twitter.com/hackthreat">Siga me no Twitter</a>
+          🐦 <a href="https://twitter.com/hackthreat"><i>Siga me no Twitter</i></a>
         </li>
         <li>
-          📺 <a href="https://www.youtube.com/@h4ckthreat/">Inscreva-se no Youtube</a>
+          📺 <a href="https://www.youtube.com/@h4ckthreat/"><i>Inscreva-se no Youtube</i></a>
         </li>
         <li>
-          📷 <a href="https://www.instagram.com/hackthreat/">Siga me no Instagram</a>
+          📷 <a href="https://www.instagram.com/hackthreat/"><i>Siga me no Instagram</i></a>
         </li>
         <li>
-          📬 <a href=mailto:hackthreat@gmail.com>Entre em contato comigo no e-mail</a>
+          📬 <a href=mailto:hackthreat@gmail.com><i>Entre em contato comigo no e-mail</i></a>
         </li>
       </ul>
     </td>
