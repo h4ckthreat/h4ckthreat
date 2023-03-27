@@ -181,16 +181,16 @@ Possuo as seguintes certificações:
       <h3>Outros lugares onde você pode me encontrar:</h3>
       <ul>
         <li>
-          🐦 <a href="https://twitter.com/hackthreat"><i>Siga me no Twitter</i></a>
+          🐦 <a href="https://twitter.com/hackthreat"><i>Siga me no Twitter.</i></a>
         </li>
         <li>
-          📺 <a href="https://www.youtube.com/@h4ckthreat/"><i>Inscreva-se no Youtube</i></a>
+          📺 <a href="https://www.youtube.com/@h4ckthreat/"><i>Inscreva-se no Youtube.</i></a>
         </li>
         <li>
-          📷 <a href="https://www.instagram.com/hackthreat/"><i>Siga me no Instagram</i></a>
+          📷 <a href="https://www.instagram.com/hackthreat/"><i>Siga me no Instagram.</i></a>
         </li>
         <li>
-          📬 <a href=mailto:hackthreat@gmail.com><i>Entre em contato comigo no e-mail</i></a>
+          📬 <a href=mailto:hackthreat@gmail.com><i>Entre em contato comigo no e-mail.</i></a>
         </li>
       </ul>
     </td>
