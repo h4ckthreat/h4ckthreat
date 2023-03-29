@@ -48,6 +48,9 @@ Possuo sólidos conhecimentos em:
         <li>
           Programação em linguagem C/C++.
         </li>
+         <li>
+          Programação em linguagem C#.
+        </li>
         <li>
           Programação em linguagem Assembly.
         </li>
