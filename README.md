@@ -191,7 +191,7 @@ Possuo as seguintes certificações:
           📺 <a href="https://www.youtube.com/@h4ckthreat/"><i>Inscreva-se no Youtube.</i></a>
         </li>
         <li>
-          📷 <a href="https://www.instagram.com/hackthreat/"><i>Siga me no Instagram.</i></a>
+          📷 <a href="https://www.instagram.com/h4ckthreat/"><i>Siga me no Instagram.</i></a>
         </li>
         <li>
           📬 <a href=mailto:h4ckthreat@gmail.com><i>Entre em contato comigo no e-mail.</i></a>
