@@ -94,7 +94,7 @@ Possuo sólidos conhecimentos em:
           Penetration testing.
         </li>
         <li>
-          Metodologias e padrões de um pentest (NIST SP 800-115, OWASP, OSSTMM 3, ISSAF).
+          Metodologias e padrões de um pentest (NIST SP 800-115, OWASP, OSSTMM 3, ISSAF, PTES).
         </li>
         <li>
           Auditoria e testes de invasão em redes e sistemas.
