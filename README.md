@@ -24,65 +24,65 @@
 
 <ul>
         <li>
-          Análise forense de redes e sistemas.
+          Análise forense de redes e sistemas
         </li>
         <li>
-          Auditoria e testes de invasão em redes e sistemas.
+          Auditoria e testes de invasão em redes e sistemas
         </li>
         <li>
-          Auditoria e testes de invasão em redes sem fio.
+          Auditoria e testes de invasão em redes sem fio
         </li>
         <li>
-          Auditoria e testes de invasão em aplicações web. 
+          Auditoria e testes de invasão em aplicações web 
         </li>
         <li>
-          Análise e desenvolvimento de exploits. 
+          Análise e desenvolvimento de exploits 
         </li>
         <li>
-          Segurança da informação e gestão de riscos. 
+          Segurança da informação e gestão de riscos 
         </li>
         <li>
-          Inteligência de ameaças cibernéticas. 
+          Inteligência de ameaças cibernéticas 
         </li>
         <li>
-          Criptografia, criptoanálise e segurança de redes.
+          Criptografia, criptoanálise e segurança de redes
         </li>
          <li>
-          Desenvolvimento seguro de aplicações.
+          Desenvolvimento seguro de aplicações
         </li>
         <li>
-          Engenharia reversa e análise de malwares.
+          Engenharia reversa e análise de malwares
         </li>
         <li>
-          Penetration test.
+          Penetration test
         </li>
         <li>
-          Metodologias e padrões de um pentest (NIST SP 800-115, OWASP, OSSTMM 3, ISSAF, PTES).
+          Metodologias e padrões de um pentest (NIST SP 800-115, OWASP, OSSTMM 3, ISSAF, PTES)
         </li>   
 </ul>
 
 Ampla carreira baseada em sólidos conhecimentos técnicos nas principais tecnologias de TI:
 <ul>
         <li>
-          Sistemas de prevenção de intrusão (IPS).
+          Sistemas de prevenção de intrusão (IPS)
         </li>
         <li>
-          Sistemas de detecção de intrusão (IDS).
+          Sistemas de detecção de intrusão (IDS)
         </li>
         <li>
-          Sistemas operacionais Windows, Linux e Mac OS X.
+          Sistemas operacionais Windows, Linux e Mac OS X
         </li>
         <li>
-          Implantação, administração e gerenciamento de redes de computadores.
+          Implantação, administração e gerenciamento de redes de computadores
         </li>
         <li>
-          Implantação, administração e gerenciamento de servidores Windows, Linux e Mac OS X.
+          Implantação, administração e gerenciamento de servidores Windows, Linux e Mac OS X
         </li>
         <li>
-          Implementação, administração e gerenciamento de sistemas de bancos de dados.
+          Implementação, administração e gerenciamento de sistemas de bancos de dados
         </li>
         <li>
-          Montagem e manutenção de microcomputadores.
+          Montagem e manutenção de microcomputadores
         </li>
         <li>
           Desenvolvimento web com HTML, CSS e Javascript
@@ -92,65 +92,65 @@ Ampla carreira baseada em sólidos conhecimentos técnicos nas principais tecnol
 Linguagens e Tecnologias:
 <ul>
         <li>
-          Linguagem Assembly.
+          Linguagem Assembly
         </li>
         <li>
-          Linguagem C/C++.
+          Linguagem C/C++
         </li>
         <li>
-          Linguagem C#.
+          Linguagem C#
         </li>
         <li>
-          Linguagem Shell Script.
+          Linguagem Shell Script
         </li>
         <li>
-          Linguagem PowerShell.
+          Linguagem PowerShell
         </li>
         <li>
-          Linguagem Python.
+          Linguagem Python
         </li>
         <li>
-          Linguagem PHP.
+          Linguagem PHP
         </li>
         <li>
-          Linguagem Haskell.
+          Linguagem Haskell
         </li>
         <li>
-          Linguagem Perl.
+          Linguagem Perl
         </li>
         <li>
-          Linguagem Ruby.
+          Linguagem Ruby
         </li>
         <li>
-          Linguagem Rust.
+          Linguagem Rust
         </li>
         <li>
-          Linguagem GO.
+          Linguagem GO
         </li>
         <li>
-          Linguagem SQL.
+          Linguagem SQL
         </li>
         <li>
-          Linguagem Java.
+          Linguagem Java
         </li>
         <li>
-          Linguagem Javascript.
+          Linguagem Javascript
         </li>
 </ul>
 
 Áreas de interesse:
 <ul>
         <li>
-          Pentest.
+          Pentest
         </li>
         <li>
-          Reverse Engineering.
+          Reverse Engineering
         </li>
         <li>
-          Exploit Development.
+          Exploit Development
         </li>
         <li>
-          Kernel Development.
+          Kernel Development
         </li>
 </ul>
 
