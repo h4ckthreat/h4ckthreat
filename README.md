@@ -58,37 +58,7 @@
         </li>
         <li>
           Metodologias e padrões de um pentest (NIST SP 800-115, OWASP, OSSTMM 3, ISSAF, PTES).
-        </li>
-         li>
-          Programação em linguagem Perl.
-        </li>
-        <li>
-          Programação em linguagem Ruby.
-        </li>
-        <li>
-          Programação em linguagem Rust.
-        </li>
-        <li>
-          Programação em linguagem Go.
-        </li>
-        <li>
-          Segurança da informação e gestão de riscos.
-        </li>
-        <li>
-          Inteligência de ameaças cibernéticas.
-        </li>
-        <li>
-          Criptografia, criptoanálise e segurança de redes.
-        </li>
-        <li>
-          Análise forense de redes e sistemas.
-        </li>
-        <li>
-          Penetration testing.
-        </li>
-        <li>
-          Metodologias e padrões de um pentest (NIST SP 800-115, OWASP, OSSTMM 3, ISSAF, PTES).
-        </li>
+        </li>   
 </ul>
 
 Ampla carreira baseada em sólidos conhecimentos técnicos nas principais tecnologias de TI:
@@ -116,6 +86,71 @@ Ampla carreira baseada em sólidos conhecimentos técnicos nas principais tecnol
         </li>
         <li>
           Desenvolvimento web com HTML, CSS e Javascript
+        </li>
+</ul>
+
+Linguagens e Tecnologias:
+<ul>
+        <li>
+          Linguagem Assembly.
+        </li>
+        <li>
+          Linguagem C/C++.
+        </li>
+        <li>
+          Linguagem C#.
+        </li>
+        <li>
+          Linguagem Shell Script.
+        </li>
+        <li>
+          Linguagem PowerShell.
+        </li>
+        <li>
+          Linguagem Python.
+        </li>
+        <li>
+          Linguagem PHP.
+        </li>
+        <li>
+          Linguagem Haskell.
+        </li>
+        <li>
+          Linguagem Perl.
+        </li>
+        <li>
+          Linguagem Ruby.
+        </li>
+        <li>
+          Linguagem Rust.
+        </li>
+        <li>
+          Linguagem GO.
+        </li>
+        <li>
+          Linguagem SQL.
+        </li>
+        <li>
+          Linguagem Java.
+        </li>
+        <li>
+          Linguagem Javascript.
+        </li>
+</ul>
+
+Áreas de interesse:
+<ul>
+        <li>
+          Pentest.
+        </li>
+        <li>
+          Reverse Engineering.
+        </li>
+        <li>
+          Exploit Development.
+        </li>
+        <li>
+          Kernel Development.
         </li>
 </ul>
 
