@@ -22,58 +22,105 @@
 
 <p align="justify"> Como pesquisador de segurança e vulnerabilidades de sistemas, tenho uma vasta experiência na área de tecnologia da informação. Atualmente, meu foco principal está na Segurança da Informação Ofensiva.</p>
 
-- Análise forense de redes e sistemas
-- Auditoria e testes de invasão em redes e sistemas
-- Auditoria e testes de invasão em redes sem fio
-- Auditoria e testes de invasão em aplicações web
-- Análise e desenvolvimento de exploits
-- Segurança da informação e gestão de riscos
-- Inteligência de ameaças cibernéticas
-- Criptografia, criptoanálise e segurança de redes 
-- Desenvolvimento seguro de aplicações
-- Engenharia reversa e análise de malwares
-- Penetration test
-- Metodologias e padrões de um pentest (NIST SP 800-115, OWASP, OSSTMM 3, ISSAF, PTES)
+<ul>
+        <li>
+          Análise forense de redes e sistemas.
+        </li>
+        <li>
+          Auditoria e testes de invasão em redes e sistemas.
+        </li>
+        <li>
+          Auditoria e testes de invasão em redes sem fio.
+        </li>
+        <li>
+          Auditoria e testes de invasão em aplicações web. 
+        </li>
+        <li>
+          Análise e desenvolvimento de exploits. 
+        </li>
+        <li>
+          Segurança da informação e gestão de riscos. 
+        </li>
+        <li>
+          Inteligência de ameaças cibernéticas. 
+        </li>
+        <li>
+          Criptografia, criptoanálise e segurança de redes.
+        </li>
+         <li>
+          Desenvolvimento seguro de aplicações.
+        </li>
+        <li>
+          Engenharia reversa e análise de malwares.
+        </li>
+        <li>
+          Penetration test.
+        </li>
+        <li>
+          Metodologias e padrões de um pentest (NIST SP 800-115, OWASP, OSSTMM 3, ISSAF, PTES).
+        </li>
+         li>
+          Programação em linguagem Perl.
+        </li>
+        <li>
+          Programação em linguagem Ruby.
+        </li>
+        <li>
+          Programação em linguagem Rust.
+        </li>
+        <li>
+          Programação em linguagem Go.
+        </li>
+        <li>
+          Segurança da informação e gestão de riscos.
+        </li>
+        <li>
+          Inteligência de ameaças cibernéticas.
+        </li>
+        <li>
+          Criptografia, criptoanálise e segurança de redes.
+        </li>
+        <li>
+          Análise forense de redes e sistemas.
+        </li>
+        <li>
+          Penetration testing.
+        </li>
+        <li>
+          Metodologias e padrões de um pentest (NIST SP 800-115, OWASP, OSSTMM 3, ISSAF, PTES).
+        </li>
+</ul>
 
 Ampla carreira baseada em sólidos conhecimentos técnicos nas principais tecnologias de TI:
-
-- Sistemas de prevenção de intrusão (IPS)
-- Sistemas de detecção de intrusão (IDS)
-- Sistemas operacionais Windows, Linux e Mac OS X
-- Implantação, administração e gerenciamento de redes de computadores
-- Implantação, administração e gerenciamento de servidores Windows, Linux e Mac OS X
-- Implementação, administração e gerenciamento de sistemas de bancos de dados
-- Montagem e manutenção de microcomputadores
-- Desenvolvimento web com HTML, CSS e Javascript
-
-Linguagens e Tecnologias:
-  
-- Linguagem Assembly
-- Linguagem C/C++
-- Linguagem C#
-- Linguagem Shell Script
-- Linguagem PowerShell
-- Linguagem Python
-- Linguagem PHP
-- Linguagem Haskell
-- Linguagem Perl
-- Linguagem Ruby
-- Linguagem Rust
-- Linguagem GO
-- Linguagem SQL
-- Linguagem Java
-- Linguagem Javascript
-
-Áreas de interesse:
-
-- Pentest
-- Reverse Engineering
-- Exploit Development
-- Kernel Development
-- Hardware Hacking
+<ul>
+        <li>
+          Sistemas de prevenção de intrusão (IPS).
+        </li>
+        <li>
+          Sistemas de detecção de intrusão (IDS).
+        </li>
+        <li>
+          Sistemas operacionais Windows, Linux e Mac OS X.
+        </li>
+        <li>
+          Implantação, administração e gerenciamento de redes de computadores.
+        </li>
+        <li>
+          Implantação, administração e gerenciamento de servidores Windows, Linux e Mac OS X.
+        </li>
+        <li>
+          Implementação, administração e gerenciamento de sistemas de bancos de dados.
+        </li>
+        <li>
+          Montagem e manutenção de microcomputadores.
+        </li>
+        <li>
+          Desenvolvimento web com HTML, CSS e Javascript
+        </li>
+</ul>
 
 <p align="justify">Jamais considere seus estudos como uma obrigação, mas como uma oportunidade invejável para aprender a conhecer a beleza libertadora do intelecto para seu próprio prazer pessoal e para proveito da comunidade à qual seu futuro trabalho pertencer.
-> Albert Einstein
+<a href="https://pt.wikipedia.org/wiki/Albert_Einstein"><br><i>Albert Einstein</i></br></a></p>
 
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
