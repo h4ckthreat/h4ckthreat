@@ -12,166 +12,67 @@
  
 </h4>
 
-<p align="justify">Sou apaixonado por tecnologia! Tive meu primeiro contato com computadores quando tinha 7 anos e desde então venho descobrindo um pouco mais sobre essa área maravilhosa, gosto da oportunidade que a tecnologia oferece às pessoas, e da proposta de facilitar a vida das pessoas, tenho o sonho de conhecer o mundo inteiro compartilhando todo o meu conhecimento e também adquirindo novas experiências e vivências. Eu acho que o conhecimento é algo que todos devem ter acesso, e eu queria ter a experiência de viver e trabalhar fora do Brasil.</p>
+<p align="justify"> Sou apaixonado por tecnologia! Meu primeiro contato com computadores ocorreu aos meus sete anos, e desde então, tenho explorado esse incrível universo. Sou fascinado pelas oportunidades que a tecnologia oferece às pessoas e pela forma como ela simplifica nossas vidas. Meu sonho é viajar pelo mundo, compartilhando conhecimento e acumulando experiências únicas.</p>
 
-<p align="justify">Pesquisador de segurança e vulnerabilidades de sistemas com ampla experiência na área de TI. Atualmente como foco principal a área da segurança da informação Ofensiva (Red Team).</p>
+<p align="justify"> Acredito firmemente que o conhecimento deve ser acessível a todos, e é por isso que criei a página <a href="https://www.instagram.com/decryptsec/"><i>Decrypt Security</i></a>. Nela, ofereço conteúdo de alta qualidade gratuitamente, com o objetivo de introduzir mais pessoas ao vasto campo da segurança da informação. A página contém uma riqueza de recursos, incluindo repositórios, tutoriais e guias para orientar aqueles que estão trilhando o caminho da segurança cibernética. Minha paixão por aprender coisas novas, trabalhar em equipe e buscar novas experiências me motiva a dedicar meu tempo aos estudos, aprimorando minhas habilidades como pentester e engenheiro reverso a cada dia.</p>
 
-<p align="justify">Tenho uma página chamada <a href="https://www.instagram.com/decryptsec/"><i>Decrypt Security</i></a> que ajuda pessoas da área da computação, cujo objetivo é disponibilizar conteúdos gratuitos e de qualidade para o mundo inteiro e introduzir mais pessoas na área da segurança da informação, quem sabe futuramente possa se tornar uma startup, na página existem diversos repositórios, tutoriais e guias para ajudar e orientar as pessoas em seu caminho de cyber security, adoro aprender coisas novas, trabalhar em equipes e ter novas experiências, quero trabalhar fora do Brasil, aprimorar meu inglês e alemão e conhecer novas culturas, pessoas e ter novas experiências, atualmente graduado em ciência da computação e em engenharia da computação, dedico meu tempo aos estudos para me tornar um pentester e um engenheiro reverso melhor a cada dia.</p>
+<p align="justify"> Além disso, sou um dos fundadores da comunidade <a href="https://www.instagram.com/lowlevelclub/"><i>Low Level Club</i></a> no Discord, junto com cinco amigos. Nossa comunidade é um espaço dedicado a estudantes que desejam se especializar em programação de baixo nível.</p>
 
-<p align="justify">Tenho uma comunidade no Discord chamada <a href="https://www.instagram.com/lowlevelclub/"><i>Low Level Club</i></a> junto com mais 5 amigos onde o espaço é voltado para estudantes que desejam aprender e se especializar em programação de baixo nível.</p>
+<p align="justify">Adoro trocar ideias e conhecimento, e estou sempre disposto a aprender algo novo enquanto tomamos um café juntos. Fique à vontade para entrar em contato comigo pelo e-mail: <a href="mailto:h4ckthreat@gmail.com"><i>h4ckthreat@gmail.com</i></a></p>
 
-<p align="justify">Vamos tomar um café, estou sempre aberto a aprender coisas novas e discutir ideias malucas. Você pode entrar em contato comigo em: <a href=mailto:h4ckthreat@gmail.com><i>h4ckthreat@gmail.com</i></a></p>
+<p align="justify"> Como pesquisador de segurança e vulnerabilidades de sistemas, tenho uma vasta experiência na área de tecnologia da informação. Atualmente, meu foco principal está na Segurança da Informação Ofensiva.</p>
 
-Possuo sólidos conhecimentos em:
-<ul>
-        <li>
-          Montagem e manutenção de microcomputadores.
-        </li>
-        <li>
-          Sistemas operacionais Windows, Linux e MacOS.
-        </li>
-        <li>
-          Implantação, administração e gerenciamento de redes de computadores.
-        </li>
-        <li>
-          implantação, administração e gerenciamento de servidores Windows, Linux e MacOS. 
-        </li>
-        <li>
-          Implementação, administração e gerenciamento de sistemas de bancos de dados. 
-        </li>
-        <li>
-          Desenvolvimento Web com HTML, CSS e Javascript. 
-        </li>
-        <li>
-          Programação em linguagem PHP. 
-        </li>
-        <li>
-          Programação em linguagem C/C++.
-        </li>
-         <li>
-          Programação em linguagem C#.
-        </li>
-        <li>
-          Programação em linguagem Assembly.
-        </li>
-        <li>
-          Programação em linguagem Shell Script.
-        </li>
-        <li>
-          Programação em linguagem PowerShell.
-        </li>
-        <li>
-          Programação em linguagem Python.
-        </li>
-         <li>
-          Programação em linguagem Haskell.
-        </li>
-        <li>
-          Programação em linguagem Perl.
-        </li>
-        <li>
-          Programação em linguagem Ruby.
-        </li>
-        <li>
-          Programação em linguagem Rust.
-        </li>
-        <li>
-          Programação em linguagem Go.
-        </li>
-        <li>
-          Segurança da informação e gestão de riscos.
-        </li>
-        <li>
-          Inteligência de ameaças cibernéticas.
-        </li>
-        <li>
-          Criptografia, criptoanálise e segurança de redes.
-        </li>
-        <li>
-          Análise forense de redes e sistemas.
-        </li>
-        <li>
-          Penetration testing.
-        </li>
-        <li>
-          Metodologias e padrões de um pentest (NIST SP 800-115, OWASP, OSSTMM 3, ISSAF, PTES).
-        </li>
-        <li>
-          Auditoria e testes de invasão em redes e sistemas.
-        </li>
-        <li>
-          Auditoria e testes de invasão em redes sem fio.
-        </li>
-        <li>
-          Auditoria e teste de invasão em aplicações Web.
-        </li>
-        <li>
-          Análise e desenvolvimento de exploits.
-        </li>
-        <li>
-          Desenvolvimento seguro de aplicações.
-        </li>
-        <li>
-          Engenharia reversa e análise de malwares.
-        </li>
-        <li>
-          Sistemas de prevenção de intrusão (IPS)
-        </li>
-        <li>
-          Sistemas de detecção de intrusão (IDS)
-        </li>
-</ul>
+- Análise forense de redes e sistemas
+- Auditoria e testes de invasão em redes e sistemas
+- Auditoria e testes de invasão em redes sem fio
+- Auditoria e testes de invasão em aplicações web
+- Análise e desenvolvimento de exploits
+- Segurança da informação e gestão de riscos
+- Inteligência de ameaças cibernéticas
+- Criptografia, criptoanálise e segurança de redes 
+- Desenvolvimento seguro de aplicações
+- Engenharia reversa e análise de malwares
+- Penetration test
+- Metodologias e padrões de um pentest (NIST SP 800-115, OWASP, OSSTMM 3, ISSAF, PTES)
 
-Possuo as seguintes certificações:
-<ul>
-        <li>
-          IBM - Rational Unified Process v7.0.
-        </li>
-        <li>
-          IBM - Object Oriented Analysis and Design, vUML 2.0.
-        </li>
-        <li>
-          Fortinet - NSE 1 Network Security Associate.
-        </li>
-        <li>
-          Fortinet - NSE 2 Network Security Associate.
-        </li>
-        <li>
-          Fortinet - NSE 3 Network Security Associate.
-        </li>
-        <li>
-          IBSEC Certified - Computer Fundamentals.
-        </li>
-        <li>
-          IBSEC Certified - Network Fundamentals.
-        </li>
-        <li>
-          IBSEC Certified - Cybersecurity Fundamentals.
-        </li>
-        <li>
-          IBSEC Certified - Cybersecurity Awareness.
-        </li>
-         <li>
-          ISO - 9001 Quality Management Systems Associate.
-        </li>
-         <li>
-          ISO/IEC - 20000 IT Service Management Associate.
-        </li>
-         <li>
-          ISO/IEC - 27001 Information Security Associate.
-        </li>
-        <li>
-          Offensive Security - Certified Professional.
-        </li>
-</ul>
+Ampla carreira baseada em sólidos conhecimentos técnicos nas principais tecnologias de TI:
 
-<p align="justify">Jamais considere seus estudos como uma obrigação, mas como uma oportunidade invejável para aprender a conhecer a beleza libertadora do intelecto para seu próprio prazer pessoal e para proveito da comunidade à qual seu futuro trabalho pertencer.
-<a href="https://pt.wikipedia.org/wiki/Albert_Einstein"><br><i>Albert Einstein</i></br></a></p>
+- Sistemas de prevenção de intrusão (IPS)
+- Sistemas de detecção de intrusão (IDS)
+- Sistemas operacionais Windows, Linux e Mac OS X
+- Implantação, administração e gerenciamento de redes de computadores
+- Implantação, administração e gerenciamento de servidores Windows, Linux e Mac OS X
+- Implementação, administração e gerenciamento de sistemas de bancos de dados
+- Montagem e manutenção de microcomputadores
+- Desenvolvimento web com HTML, CSS e Javascript
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td style="border: 0";>
-      <img width="700" src="https://i.imgur.com/7TxQnFN.png" />
+Linguagens e Tecnologias:
+  
+- Linguagem Assembly
+- Linguagem C/C++
+- Linguagem C#
+- Linguagem Shell Script
+- Linguagem PowerShell
+- Linguagem Python
+- Linguagem PHP
+- Linguagem Haskell
+- Linguagem Perl
+- Linguagem Ruby
+- Linguagem Rust
+- Linguagem GO
+- Linguagem SQL
+- Linguagem Java
+- Linguagem Javascript
+
+Áreas de interesse:
+
+- Pentest
+- Reverse Engineering
+- Exploit Development
+- Kernel Development
+- Hardware Hacking
+
+  <img width="700" src="https://i.imgur.com/7TxQnFN.png" />
     </td>
     <td style="border: 0";>
       <p align="justify">
