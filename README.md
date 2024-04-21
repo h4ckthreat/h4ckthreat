@@ -13,7 +13,7 @@
 
 <p align="justify"> Sou apaixonado por tecnologia! Meu primeiro contato com computadores ocorreu aos meus sete anos, e desde então, tenho explorado esse incrível universo. Sou fascinado pelas oportunidades que a tecnologia oferece às pessoas e pela forma como ela simplifica nossas vidas. Meu sonho é viajar pelo mundo, compartilhando conhecimento e acumulando experiências únicas.</p>
 
-<p align="justify"> Acredito firmemente que o conhecimento deve ser acessível a todos, e é por isso que criei a página <a href="https://www.instagram.com/decryptsec/"><i>Decrypt Security</i></a>. Nela, ofereço conteúdo de alta qualidade gratuitamente, com o objetivo de introduzir mais pessoas ao vasto campo da segurança da informação. A página contém uma riqueza de recursos, incluindo repositórios, tutoriais e guias para orientar aqueles que estão trilhando o caminho da segurança da informação. Minha paixão por aprender coisas novas, trabalhar em equipe e buscar novas experiências me motiva a dedicar meu tempo aos estudos, aprimorando minhas habilidades como pentester e engenheiro reverso.</p>
+<p align="justify"> Acredito firmemente que o conhecimento deve ser acessível a todos, e é por isso que criei a página <a href="https://www.instagram.com/h4ckthreat/"><i>h4ckthreat</i></a>. Nela, ofereço conteúdo de alta qualidade gratuitamente, com o objetivo de introduzir mais pessoas ao vasto campo da segurança da informação. A página contém uma riqueza de recursos, incluindo repositórios, tutoriais e guias para orientar aqueles que estão trilhando o caminho da segurança da informação. Minha paixão por aprender coisas novas, trabalhar em equipe e buscar novas experiências me motiva a dedicar meu tempo aos estudos, aprimorando minhas habilidades como pentester e engenheiro reverso.</p>
 
 <p align="justify"> Além disso, sou um dos fundadores da comunidade <a href="https://www.instagram.com/lowlevelclub/"><i>Low Level Club</i></a> no Discord, junto com cinco amigos. Nossa comunidade é um espaço dedicado a estudantes que desejam se especializar em programação de baixo nível.</p>
 
@@ -173,12 +173,12 @@ Linguagens e Tecnologias:
     </td>
     <td style="border: 0";>
       <p align="justify">
-        💻 Projeto focado em conteúdos de qualidade sobre segurança da informação: <a href="https://www.instagram.com/decryptsec/"><i>Decrypt Security</i><a/>.
+        💻 Projeto focado em conteúdos de qualidade sobre segurança da informação: <a href="https://blog.h4ckthreat.com/"><i>h4ckthreat</i><a/>.
               <p align="justify">
         💻 Comunidade voltada para estudantes que desejam aprender e se especializar em programação de baixo nível: <a href="https://www.instagram.com/lowlevelclub/"><i>Low Level Club</i><a/>.
       </p>
       <p align="justify">
-       🌙 Fazendo conteúdos diários em: <a href="https://www.instagram.com/decryptsec/"><i>Decrypt Security</a></i>, eu complemento esses conteúdos com: <a href="https://www.youtube.com/@decryptsec"><i>vídeos no Youtube</i></a>.
+       🌙 Fazendo conteúdos diários em: <a href="https://www.instagram.com/h4ckthreat/"><i>h4ckthreat</a></i>, eu complemento esses conteúdos com: <a href="https://www.youtube.com/@h4ckthreat"><i>vídeos no Youtube</i></a>.
       </p>
       <h3>Outros lugares onde você pode me encontrar:</h3>
       <ul>
