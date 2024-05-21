@@ -38,7 +38,7 @@
           Análise e desenvolvimento de exploits 
         </li>
         <li>
-          Segurança da informação e gestão de riscos 
+          Segurança de dados e gestão de riscos 
         </li>
         <li>
           Inteligência de ameaças cibernéticas 
