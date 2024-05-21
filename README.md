@@ -63,28 +63,31 @@
 Ampla carreira baseada em sólidos conhecimentos técnicos nas principais tecnologias de TI:
 <ul>
         <li>
-          Sistemas de prevenção de intrusão (IPS)
+          Sistemas de prevenção de intrusão
         </li>
         <li>
-          Sistemas de detecção de intrusão (IDS)
+          Sistemas de detecção de intrusão
         </li>
         <li>
-          Sistemas operacionais Windows, Linux e Mac OS X
+          Sistemas operacionais Windows, Linux e Mac
         </li>
         <li>
           Implantação, administração e gerenciamento de redes de computadores
         </li>
         <li>
-          Implantação, administração e gerenciamento de servidores Windows, Linux e Mac OS X
+          Implantação, administração e gerenciamento de servidores Windows, Linux e Mac
         </li>
         <li>
           Implementação, administração e gerenciamento de sistemas de bancos de dados
         </li>
         <li>
+          Implementação administração e gerenciamento de firewalls
+        </li>
+        <li>
           Montagem e manutenção de microcomputadores
         </li>
         <li>
-          Desenvolvimento web com HTML, CSS e Javascript
+          Desenvolvimento de aplicações web
         </li>
 </ul>
 
