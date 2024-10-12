@@ -26,13 +26,13 @@
           Análise forense de redes e sistemas
         </li>
         <li>
-          Auditoria e testes de invasão em redes e sistemas
+          Auditoria e testes de segurança em redes e sistemas
         </li>
         <li>
-          Auditoria e testes de invasão em redes sem fio
+          Auditoria e testes de segurança em redes sem fio
         </li>
         <li>
-          Auditoria e testes de invasão em aplicações web 
+          Auditoria e testes de segurança em aplicações web 
         </li>
         <li>
           Análise e desenvolvimento de exploits 
@@ -176,7 +176,7 @@ Linguagens e Tecnologias:
     </td>
     <td style="border: 0";>
       <p align="justify">
-        💻 Projeto focado em conteúdos de qualidade sobre segurança da informação: <a href="https://blog.h4ckthreat.com/"><i>h4ckthreat</i><a/>.
+        💻 Projeto focado em conteúdos de qualidade sobre segurança da informação: <a href="https://h4ckthreat.github.io/"><i>h4ckthreat</i><a/>.
               <p align="justify">
         💻 Comunidade voltada para estudantes que desejam aprender e se especializar em programação de baixo nível: <a href="https://www.instagram.com/lowlevelclub/"><i>Low Level Club</i><a/>.
       </p>
