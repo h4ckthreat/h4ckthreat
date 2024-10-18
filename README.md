@@ -139,27 +139,6 @@ Linguagens e Tecnologias:
           Linguagem Javascript
         </li>
 </ul>
-
-Áreas de interesse:
-<ul>
-        <li>
-          Pentest
-        </li>
-        <li>
-          Reverse Engineering
-        </li>
-        <li>
-          Exploit Development
-        </li>
-        <li>
-          Kernel Development
-        </li>
-         <li>
-          Kernel Exploitation
-        </li>
-        <li>
-          Hardware Hacking
-        </li>
         
  
 </ul>
