@@ -157,7 +157,7 @@ Linguagens e Tecnologias:
               <p align="justify"> 
    </p>
       <p align="justify">
-       🌙 Fazendo conteúdos diários em: <a href="https://www.instagram.com/h4ckthreat/"><i>r0daemon</a></i>, eu complemento esses conteúdos com: <a href="https://www.youtube.com/@r0daemon"><i>vídeos no Youtube</i></a>.
+       🌙 Fazendo conteúdos diários em: <a href="https://www.instagram.com/r0daemon/"><i>r0daemon</a></i>, eu complemento esses conteúdos com: <a href="https://www.youtube.com/@r0daemon"><i>vídeos no Youtube</i></a>.
       </p>
       <h3>Outros lugares onde você pode me encontrar:</h3>
       <ul>
