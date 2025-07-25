@@ -1,4 +1,4 @@
-# <i> Oi, eu sou Jadson </i>👨🏻‍💻<i> - @0xdaemon$</i> ☣️
+# <i> Oi, eu sou Jadson </i>👨🏻‍💻<i> - @0xdaemon</i> ☣️
 
 <h4 align="center">
  
