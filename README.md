@@ -6,8 +6,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jadsonlsouza/)
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@r0daemon-canal)
 [![HackTheBox Badge](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)](https://app.hackthebox.com/profile/1163217)
-[![TryHackMe Badge](https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/h4ckthreat)
-[![HackerOne Badge](https://img.shields.io/badge/-HackerOne-%23494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/h4ckthreat)
+[![TryHackMe Badge](https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/r0daemon)
+[![HackerOne Badge](https://img.shields.io/badge/-HackerOne-%23494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/r0daemon)
 
 </h4>
 
@@ -15,7 +15,7 @@
 
 <p align="justify"> Acredito firmemente que o conhecimento deve ser acessível a todos, e é por isso que criei a página <a href="https://www.instagram.com/r0daemon/"><i>r0daemon</i></a>. Nela, ofereço conteúdo de alta qualidade gratuitamente, com o objetivo de introduzir mais pessoas ao vasto campo da segurança da informação. A página contém uma riqueza de recursos, incluindo repositórios, tutoriais e guias para orientar aqueles que estão trilhando o caminho da segurança da informação. Minha paixão por aprender coisas novas, trabalhar em equipe e buscar novas experiências me motiva a dedicar meu tempo aos estudos, aprimorando minhas habilidades.</p>
 
-<p align="justify">Adoro trocar ideias e conhecimento, e estou sempre disposto a aprender algo novo enquanto tomamos um café juntos. Fique à vontade para entrar em contato comigo pelo e-mail: <a href="mailto:r0daemon@gmail.com"><i>r0daemon@gmail.com</i></a></p>
+<p align="justify">Adoro trocar ideias e conhecimento, e estou sempre disposto a aprender algo novo enquanto tomamos um café juntos. Fique à vontade para entrar em contato comigo pelo e-mail: <a href="mailto:r0daemon@hotmail.com"><i>r0daemon@hotmail.com</i></a></p>
 
 <p align="justify">Como pesquisador de segurança e vulnerabilidades de sistemas, tenho uma vasta experiência na área de tecnologia da informação. Atualmente, meu foco principal está na Segurança da Informação Ofensiva.</p>
 
@@ -171,7 +171,7 @@ Linguagens e Tecnologias:
           📷 <a href="https://www.instagram.com/r0daemon/"><i>Siga me no Instagram.</i></a>
         </li>
         <li>
-          📬 <a href=mailto:r0daemon@gmail.com><i>Entre em contato comigo no e-mail.</i></a>
+          📬 <a href=mailto:r0daemon@hotmail.com><i>Entre em contato comigo no e-mail.</i></a>
         </li>
       </ul>
     </td>
