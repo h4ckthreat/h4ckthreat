@@ -15,7 +15,7 @@
 
 <p align="justify"> Acredito firmemente que o conhecimento deve ser acessível a todos, e é por isso que criei a página <a href="https://www.instagram.com/r0daemon/"><i>r0daemon</i></a>. Nela, ofereço conteúdo de alta qualidade gratuitamente, com o objetivo de introduzir mais pessoas ao vasto campo da segurança da informação. A página contém uma riqueza de recursos, incluindo repositórios, tutoriais e guias para orientar aqueles que estão trilhando o caminho da segurança da informação. Minha paixão por aprender coisas novas, trabalhar em equipe e buscar novas experiências me motiva a dedicar meu tempo aos estudos, aprimorando minhas habilidades.</p>
 
-<p align="justify">Adoro trocar ideias e conhecimento, e estou sempre disposto a aprender algo novo enquanto tomamos um café juntos. Fique à vontade para entrar em contato comigo pelo e-mail: <a href="mailto:r0daemon@hotmail.com"><i>r0daemon@hotmail.com</i></a></p>
+<p align="justify">Adoro trocar ideias e conhecimento, e estou sempre disposto a aprender algo novo enquanto tomamos um café juntos. Fique à vontade para entrar em contato comigo pelo e-mail: <a href="mailto:r0daemon@proton.me"><i>r0daemon@proton.me</i></a></p>
 
 <p align="justify">Como pesquisador de segurança e vulnerabilidades de sistemas, tenho uma vasta experiência na área de tecnologia da informação. Atualmente, meu foco principal está na Segurança da Informação Ofensiva.</p>
 
@@ -171,7 +171,7 @@ Linguagens e Tecnologias:
           📷 <a href="https://www.instagram.com/r0daemon/"><i>Siga me no Instagram.</i></a>
         </li>
         <li>
-          📬 <a href=mailto:r0daemon@hotmail.com><i>Entre em contato comigo no e-mail.</i></a>
+          📬 <a href=mailto:r0daemon@proton.me><i>Entre em contato comigo no e-mail.</i></a>
         </li>
       </ul>
     </td>
