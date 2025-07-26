@@ -4,7 +4,7 @@
  
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/r0daemon/)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jadsonlsouza/)
-[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@r0-daemon)
+[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@r0daemon-canal)
 [![HackTheBox Badge](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)](https://app.hackthebox.com/profile/1163217)
 [![TryHackMe Badge](https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/h4ckthreat)
 [![HackerOne Badge](https://img.shields.io/badge/-HackerOne-%23494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/h4ckthreat)
@@ -157,7 +157,7 @@ Linguagens e Tecnologias:
               <p align="justify"> 
    </p>
       <p align="justify">
-       🌙 Fazendo conteúdos diários em: <a href="https://www.instagram.com/r0daemon/"><i>r0daemon</a></i>, eu complemento esses conteúdos com: <a href="https://www.youtube.com/@r0daemon"><i>vídeos no Youtube</i></a>.
+       🌙 Fazendo conteúdos diários em: <a href="https://www.instagram.com/r0daemon/"><i>r0daemon</a></i>, eu complemento esses conteúdos com: <a href="https://www.youtube.com/@r0daemon-canal"><i>vídeos no Youtube</i></a>.
       </p>
       <h3>Outros lugares onde você pode me encontrar:</h3>
       <ul>
@@ -165,7 +165,7 @@ Linguagens e Tecnologias:
           🐦 <a href="https://twitter.com/r0daemon"><i>Siga me no Twitter.</i></a>
         </li>
         <li>
-          📺 <a href="https://www.youtube.com/@r0daemon/"><i>Inscreva-se no Youtube.</i></a>
+          📺 <a href="https://www.youtube.com/@r0daemon-canal/"><i>Inscreva-se no Youtube.</i></a>
         </li>
         <li>
           📷 <a href="https://www.instagram.com/r0daemon/"><i>Siga me no Instagram.</i></a>
