@@ -1,23 +1,23 @@
-# <i> Oi, eu sou Jadson </i>👨🏻‍💻<i> - @r0daemon</i> ☣️
+# <i> Oi, eu sou Jadson </i>👨🏻‍💻<i> - @h4ckthreat</i> ☣️
 
 <h4 align="center">
  
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/r0daemon/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/h4ckthreat/)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jadsonlsouza/)
-[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@r0daemon-canal)
+[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@h4ckthreat)
 [![HackTheBox Badge](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)](https://app.hackthebox.com/profile/1163217)
-[![TryHackMe Badge](https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/r0daemon)
-[![HackerOne Badge](https://img.shields.io/badge/-HackerOne-%23494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/r0daemon)
+[![TryHackMe Badge](https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/h4ckthreat)
+[![HackerOne Badge](https://img.shields.io/badge/-HackerOne-%23494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/h4ckthreat)
 
 </h4>
 
 <p align="justify"> Sou apaixonado por tecnologia! Meu primeiro contato com computadores ocorreu aos meus sete anos, e desde então, tenho explorado esse incrível universo. Sou fascinado pelas oportunidades que a tecnologia oferece às pessoas e pela forma como ela simplifica nossas vidas. Meu sonho é viajar pelo mundo, compartilhando conhecimento e acumulando experiências únicas.</p>
 
-<p align="justify">Acredito firmemente que o conhecimento deve ser acessível a todos, e é por isso que criei a página <a href="https://www.instagram.com/r0daemon/"><i>r0daemon</i></a>. Nela, ofereço conteúdo de alta qualidade gratuitamente, com o objetivo de introduzir mais pessoas ao vasto campo da segurança da informação. A página contém uma riqueza de recursos, incluindo repositórios, tutoriais e guias para orientar aqueles que estão trilhando este caminho. Minha paixão por aprender coisas novas, trabalhar em equipe e buscar novas experiências me motiva a dedicar meu tempo aos estudos, aprimorando minhas habilidades como pentester e engenheiro reverso.</p>
+<p align="justify">Acredito firmemente que o conhecimento deve ser acessível a todos, e é por isso que criei a página <a href="https://www.instagram.com/h4ckthreat/"><i>r0daemon</i></a>. Nela, ofereço conteúdo de alta qualidade gratuitamente, com o objetivo de introduzir mais pessoas ao vasto campo da segurança da informação. A página contém uma riqueza de recursos, incluindo repositórios, tutoriais e guias para orientar aqueles que estão trilhando este caminho. Minha paixão por aprender coisas novas, trabalhar em equipe e buscar novas experiências me motiva a dedicar meu tempo aos estudos, aprimorando minhas habilidades como pentester e engenheiro reverso.</p>
 
 <p align="justify">Além disso, sou um dos fundadores da comunidade <a href="https://www.instagram.com/lowlevelclub/"><i>Low Level Club</i></a> no Discord, junto com cinco amigos. Nossa comunidade é um espaço dedicado a estudantes que desejam se especializar em programação de baixo nível.</p>
 
-<p align="justify">Adoro trocar ideias e conhecimento, e estou sempre disposto a aprender algo novo enquanto tomamos um café juntos. Fique à vontade para entrar em contato comigo pelo e-mail: <a href="mailto:r0daemon@proton.me"><i>r0daemon@proton.me</i></a></p>
+<p align="justify">Adoro trocar ideias e conhecimento, e estou sempre disposto a aprender algo novo enquanto tomamos um café juntos. Fique à vontade para entrar em contato comigo pelo e-mail: <a href="mailto:h4ckthreat@gmail.com"><i>h4ckthreat@gmail.com</i></a></p>
 
 <p align="justify">Como pesquisador de segurança e vulnerabilidades de sistemas, tenho uma vasta experiência na área de tecnologia da informação. Atualmente, meu foco principal está na Segurança da Informação Ofensiva.</p>
 
@@ -169,33 +169,33 @@ Linguagens e Tecnologias:
     </td>
     <td style="border: 0";>
       <p align="justify">
-        💻 Projeto focado em conteúdos de qualidade sobre segurança da informação: <a href="https://r0daemon.github.io/"><i>r0daemon</i><a/>.
+        💻 Projeto focado em conteúdos de qualidade sobre segurança da informação: <a href="https://h4ckthreat.github.io/"><i>h4ckthreat</i><a/>.
               <p align="justify"> 
    </p>
       <p align="justify">
-       🌙 Fazendo conteúdos diários em: <a href="https://www.instagram.com/r0daemon/"><i>r0daemon</a></i>, eu complemento esses conteúdos com: <a href="https://www.youtube.com/@r0daemon-canal"><i>vídeos no Youtube</i></a>.
+       🌙 Fazendo conteúdos diários em: <a href="https://www.instagram.com/h4ckthreat/"><i>h4ckthreat</a></i>, eu complemento esses conteúdos com: <a href="https://www.youtube.com/@h4ckthreat"><i>vídeos no Youtube</i></a>.
       </p>
       <h3>Outros lugares onde você pode me encontrar:</h3>
       <ul>
         <li>
-          🐦 <a href="https://twitter.com/r0daemon"><i>Siga me no Twitter.</i></a>
+          🐦 <a href="https://twitter.com/h4ckthreat"><i>Siga me no Twitter.</i></a>
         </li>
         <li>
-          📺 <a href="https://www.youtube.com/@r0daemon-canal/"><i>Inscreva-se no Youtube.</i></a>
+          📺 <a href="https://www.youtube.com/@h4ckthreat/"><i>Inscreva-se no Youtube.</i></a>
         </li>
         <li>
-          📷 <a href="https://www.instagram.com/r0daemon/"><i>Siga me no Instagram.</i></a>
+          📷 <a href="https://www.instagram.com/h4ckthreat/"><i>Siga me no Instagram.</i></a>
         </li>
         <li>
-          📬 <a href=mailto:r0daemon@proton.me><i>Entre em contato comigo no e-mail.</i></a>
+          📬 <a href=mailto:h4ckthreat@gmail.com><i>Entre em contato comigo no e-mail.</i></a>
         </li>
       </ul>
     </td>
   </tr>
 </table>
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=r0daemon&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=r0daemon&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=r0daemon&theme=nord_dark) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=h4ckthreat&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=h4ckthreat&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=h4ckthreat&theme=nord_dark) |
 | :-: | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=r0daemon&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=r0daemon&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=h4ckthreat&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=h4ckthreat&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
 | :-: | :-: |
