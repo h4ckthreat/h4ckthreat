@@ -27,49 +27,78 @@
 
 🛠️ Especialidades Técnicas:
 <ul>
-        <li>
+      <li>
           Red Team & Simulações de Ameaças Avançadas
-        </li>
-        <li>
+       </li>
+       <li>
           Engenharia Reversa de Binários (Windows)
-        </li>
-        <li>
+       </li>
+       <li>
           Shellcoding Avançado (x64, stealth, evasivo, API manual)
-        </li>
-        <li>
+       </li>
+       <li>
           Windows Internals: PEB, TEB, SSDT, Native API, Syscalls, Kernel-mode
-        </li>
-        <li>
+       </li>
+       <li>
           Desenvolvimento de Ferramentas Ofensivas: C, C++, Assembly
-        </li>
-        <li>
+       </li>
+       <li>
           Evasão de EDR/AV: Manual DLL Mapping, Unhooking, Syscall Spoofing
-        </li>
-        <li>
+       </li>
+       <li>
           Técnicas de Injeção: Reflective DLL Injection, Process Hollowing, DLL Proxying
-        </li>
-        <li>
+       </li>
+       <li>
           Exploit Development: Userland & Kernel-level
-        </li>
-        <li>
+       </li>
+       <li>
           Pós-exploração Stealth: Entrega furtiva, execução OPSEC-aware
-        </li>
+      </li>
 </ul>
 
 🔒 Evasão & Execução Furtiva:
 <ul>
-        <li>
+       <li>
           Direct/Indirect Syscalls, stub spoofing, parsing dinâmico de ntdll.dll
-        </li>
-        <li>
+       </li>
+       <li>
            Manual Mapping de DLLs, unhooking de funções críticas, spoofing de PEB/TEB
-        </li>
-        <li>
+       </li>
+       <li>
           Threadless Execution: APC Injection, AtomBombing, Transacted Hollowing
-        </li>
+      </li>
 </ul>
 
-Áreas de interesse:
+🧬 Persistência & Movimentação Lateral:
+<ul>
+       <li>
+          Persistência Avançada no AD: Golden/Silver Tickets, SPN Abuse, GPO Implants
+       </li>
+       <li>
+           Movimentação Lateral: ACL Abuse, Trust Exploitation, DCSync/DCSHadow
+       </li>
+       <li>
+          C2 Stealth: Named Pipes, SMB Tunneling, DNS Tunneling
+       </li>
+</ul>
+
+📌 Linguagens & Ferramentas:
+<ul>
+       <li>
+          C, C++, Assembly (x64), Python, PowerShell
+       </li>
+       <li>
+           Loaders personalizados: Anti-debug, Anti-VM, evasão de hooks
+       </li>
+       <li>
+          Entrega furtiva: via WMI, Registro, Named Pipes, Variáveis de Ambiente
+       </li>
+       <li>
+          Pós-exploração: LSASS Dumping (Minidump, Handle Duplication, Raw Memory Read)
+      </li>
+</ul>
+
+🔍 Áreas de interesse:
 <ul>
         <li>
           Low Level Security
