@@ -55,7 +55,6 @@
           Pós-exploração Stealth: Entrega furtiva, execução OPSEC-aware
       </li>
 </ul>
-
 🔒 Evasão & Execução Furtiva:
 <ul>
        <li>
@@ -68,7 +67,6 @@
           Threadless Execution: APC Injection, AtomBombing, Transacted Hollowing
       </li>
 </ul>
-
 🧬 Persistência & Movimentação Lateral:
 <ul>
        <li>
@@ -81,7 +79,6 @@
           C2 Stealth: Named Pipes, SMB Tunneling, DNS Tunneling
        </li>
 </ul>
-
 📌 Linguagens & Ferramentas:
 <ul>
        <li>
@@ -97,11 +94,10 @@
           Pós-exploração: LSASS Dumping (Minidump, Handle Duplication, Raw Memory Read)
       </li>
 </ul>
-
 🔍 Áreas de interesse:
 <ul>
         <li>
-          Low Level Security
+          Offensive Security
         </li>
         <li>
           Reverse Engineering
@@ -111,6 +107,9 @@
         </li>
         <li>
           Kernel Explotation
+        </li>
+        <li>
+          Windows Internals
         </li>
 </ul>
         
