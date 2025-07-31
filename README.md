@@ -57,6 +57,7 @@
 </ul>
 
 🔒 Evasão & Execução Furtiva:
+
 <ul>
        <li>
           Direct/Indirect Syscalls, stub spoofing, parsing dinâmico de ntdll.dll
@@ -70,6 +71,7 @@
 </ul>
 
 🧬 Persistência & Movimentação Lateral:
+
 <ul>
        <li>
           Persistência Avançada no AD: Golden/Silver Tickets, SPN Abuse, GPO Implants
@@ -83,6 +85,7 @@
 </ul>
 
 📌 Linguagens & Ferramentas:
+
 <ul>
        <li>
           C, C++, Assembly (x64), Python, PowerShell
@@ -99,6 +102,7 @@
 </ul>
 
 🔍 Áreas de interesse:
+
 <ul>
         <li>
           Offensive Security
