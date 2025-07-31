@@ -88,7 +88,7 @@
 
 <ul>
        <li>
-          C, C++, Assembly (x64), Python, PowerShell
+          C, C++, Assembly (x64), Python, PowerShell, Bash Script
        </li>
        <li>
            Loaders personalizados: Anti-debug, Anti-VM, evasão de hooks
