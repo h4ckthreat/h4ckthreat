@@ -19,7 +19,7 @@
 
 <p align="justify">Adoro trocar ideias e conhecimento, e estou sempre disposto a aprender algo novo enquanto tomamos um café juntos. Fique à vontade para entrar em contato comigo pelo e-mail: <a href="mailto:h4ckthreat@gmail.com"><i>h4ckthreat@gmail.com</i></a></p>
 
-<p align="justify">Sou especialista em segurança ofensiva, com foco em Red Team, desenvolvimento de exploits e engenharia reversa em ambientes Windows. Atuo na criação de payloads stealth, evasão de EDRs e injeção avançada de código, com domínio profundo de Windows Internals tanto em nível Userland quanto Kernel-mode.</p>
+<p align="justify">Sou especialista em segurança ofensiva, com atuação focada em Red Team, desenvolvimento de exploits e engenharia reversa em ambientes Windows e Linux. Atuo na criação de payloads stealth, técnicas de evasão de EDRs e injeção avançada de código, com domínio técnico profundo de Windows Internals(Userland, Kernel-mode) e mecanismos de segurança em sistemas Linux-based.</p>
 
 <p align="justify">Possuo experiência prática em simulações realistas de adversário, desenvolvimento de shellcodes x64, manipulação de estruturas internas de processos, execução direta e indireta de syscalls, reflective DLL loading, entre outras técnicas de pós-exploração avançada.</p>
 
