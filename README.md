@@ -21,9 +21,9 @@
 
 <p align="justify">Sou especialista em segurança ofensiva, com atuação focada em Red Team, desenvolvimento de exploits e engenharia reversa em ambientes Windows e Linux. Atuo na criação de payloads stealth, técnicas de evasão de EDRs e injeção avançada de código, com domínio técnico profundo de Windows Internals(Userland, Kernel-mode) e mecanismos de segurança em sistemas Linux-based.</p>
 
-<p align="justify">Possuo experiência prática em simulações realistas de adversário, desenvolvimento de shellcodes x64, manipulação de estruturas internas de processos, execução direta e indireta de syscalls, reflective DLL loading, entre outras técnicas de pós-exploração avançada.</p>
+<p align="justify">Possuo experiência prática em simulações realistas de adversário, desenvolvimento de shellcodes x64, manipulação de estruturas internas de processos, execução direta e indireta de syscalls, reflective DLL loading (Windows), entre outras técnicas de pós-exploração avançadas em múltiplas plataformas.</p>
 
-<p align="justify">Meu foco é desenvolver, compreender e testar mecanismos reais de ataque com finalidade de simulação, pesquisa e melhoria de segurança (hardening). Atuo sempre no limite técnico, com responsabilidade ética e comprometimento com a integridade dos ambientes analisados.</p>
+<p align="justify">Meu foco é desenvolver, compreender e testar mecanismos reais de ataque com finalidade de simulação, pesquisa e melhoria de segurança hardening cross-platform. Atuo sempre no limite técnico, com responsabilidade ética e comprometimento com a integridade dos ambientes analisados.</p>
 
 🛠️ Especialidades Técnicas:
 <ul>
