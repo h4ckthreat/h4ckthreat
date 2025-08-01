@@ -31,31 +31,31 @@
           Red Team & Simulações de Ameaças Avançadas (Windows & Linux)
        </li>
        <li>
-          Engenharia Reversa de Binários (PE/ELF)
+          Engenharia Reversa de Binários (PE/ELF
        </li>
        <li>
           Shellcoding Avançado (x64, stealth, evasivo, API manual, syscalls)
        </li>
        <li>
-          Windows Internals: PEB, TEB, SSDT, Native API, Syscalls, Kernel-mode
+          Windows Internals (PEB, TEB, SSDT, Native API, syscalls, kernel-mode)
        </li>
        <li>
-          Linux Internals(ELF, /proc, syscall wrappers, ptrace, LD_PRELOAD)
+          Linux Internals (ELF, /proc, syscall wrappers, ptrace, LD_PRELOAD)
       </li>
        <li>
-          Desenvolvimento de Ferramentas Ofensivas: C, C++, Assembly
+          Desenvolvimento de ferramentas ofensivas em C, C++, Assembly
        </li>
        <li>
-          Evasão de EDR/AV: Manual DLL Mapping, Unhooking, Syscall Spoofing
+          Evasão de EDR/AV (unhooking, syscall spoofing, DLL/SO manual mapping)
        </li>
        <li>
           Técnicas de Injeção: Reflective DLL Injection, Process Hollowing, DLL Proxying
        </li>
        <li>
-          Exploit Development: Userland & Kernel-level
+          Exploit Development (userland/kernel-mode Windows e Linux)
        </li>
        <li>
-          Pós-exploração Stealth: Entrega furtiva, execução OPSEC-aware
+          Pós-exploração Stealth em ambientes monitorados (Entrega furtiva, execução OPSEC-aware)
       </li>
 </ul>
 
