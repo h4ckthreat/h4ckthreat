@@ -31,7 +31,7 @@
           Red Team & Simulações de Ameaças Avançadas (Windows & Linux)
        </li>
        <li>
-          Engenharia Reversa de Binários (PE/ELF
+          Engenharia Reversa de Binários (PE/ELF)
        </li>
        <li>
           Shellcoding Avançado (x64, stealth, evasivo, API manual, syscalls)
