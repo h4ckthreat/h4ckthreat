@@ -28,17 +28,20 @@
 🛠️ Especialidades Técnicas:
 <ul>
       <li>
-          Red Team & Simulações de Ameaças Avançadas
+          Red Team & Simulações de Ameaças Avançadas (Windows & Linux)
        </li>
        <li>
-          Engenharia Reversa de Binários (Windows)
+          Engenharia Reversa de Binários (PE/ELF)
        </li>
        <li>
-          Shellcoding Avançado (x64, stealth, evasivo, API manual)
+          Shellcoding Avançado (x64, stealth, evasivo, API manual, syscalls)
        </li>
        <li>
           Windows Internals: PEB, TEB, SSDT, Native API, Syscalls, Kernel-mode
        </li>
+       <li>
+          Linux Internals(ELF, /proc, syscall wrappers, ptrace, LD_PRELOAD)
+      </li>
        <li>
           Desenvolvimento de Ferramentas Ofensivas: C, C++, Assembly
        </li>
