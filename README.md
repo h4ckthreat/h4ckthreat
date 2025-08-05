@@ -13,17 +13,17 @@
 
 <p align="justify">Fascinado por tecnologia! Meu primeiro contato com computadores ocorreu aos meus sete anos, e desde então, tenho explorado esse incrível universo. Sou fascinado pelas oportunidades que a tecnologia oferece às pessoas e pela forma como ela simplifica nossas vidas. Meu sonho é viajar pelo mundo, compartilhando conhecimento e acumulando experiências únicas.</p>
 
-<p align="justify">Acredito firmemente que o conhecimento deve ser acessível a todos, e é por isso que criei a página <a href="https://www.instagram.com/h4ckthreat/"><i>h4ckthreat</i></a>. Nela, ofereço conteúdo de alta qualidade gratuitamente, com o objetivo de introduzir mais pessoas ao vasto campo da segurança da informação. A página contém uma riqueza de recursos, incluindo repositórios, tutoriais e guias para orientar aqueles que estão trilhando este caminho. Minha paixão por aprender coisas novas, trabalhar em equipe e buscar novas experiências me motiva a dedicar meu tempo aos estudos, aprimorando minhas habilidades em segurança ofensiva.</p>
+<p align="justify">Acredito firmemente que o conhecimento deve ser acessível a todos, e é por isso que criei a página h4ckthreat. Nela, ofereço conteúdo de alta qualidade gratuitamente, com o objetivo de introduzir mais pessoas ao vasto campo da segurança da informação. A página contém uma riqueza de recursos, incluindo repositórios, tutoriais e guias para orientar aqueles que estão trilhando este caminho. Minha paixão por aprender coisas novas, trabalhar em equipe e buscar novas experiências me motiva a dedicar meu tempo aos estudos, aprimorando minhas habilidades em segurança ofensiva.</p>
 
 <p align="justify">Além disso, sou um dos fundadores da comunidade <a href="https://www.instagram.com/lowlevelclub/"><i>Low Level Club</i></a> no Discord, junto com cinco amigos. Nossa comunidade é um espaço dedicado a estudantes que desejam se especializar em programação de baixo nível.</p>
 
 <p align="justify">Adoro trocar ideias e conhecimento, e estou sempre disposto a aprender algo novo enquanto tomamos um café juntos. Fique à vontade para entrar em contato comigo pelo e-mail: <a href="mailto:h4ckthreat@gmail.com"><i>h4ckthreat@gmail.com</i></a></p>
 
-<p align="justify">Sou especialista em segurança ofensiva, com atuação focada em Red Team, desenvolvimento de exploits e engenharia reversa em ambientes Windows e Linux. Atuo na criação de payloads stealth, técnicas de evasão de EDRs e injeção avançada de código, com domínio técnico profundo de Windows Internals (Userland, Kernel-mode) e mecanismos de segurança em sistemas Linux-based.</p>
+<p align="justify">Sou especialista em segurança ofensiva, com foco em Red Team, desenvolvimento de exploits e engenharia reversa em ambientes Windows. Atuo na criação de payloads stealth, evasão de EDRs e injeção avançada de código, com domínio profundo de Windows Internals tanto em nível Userland quanto Kernel-mode.</p>
 
-<p align="justify">Possuo experiência prática em simulações realistas de adversário, desenvolvimento de shellcodes x64, manipulação de estruturas internas de processos, execução direta e indireta de syscalls, reflective DLL loading (Windows), entre outras técnicas de pós-exploração avançadas em múltiplas plataformas.</p>
+<p align="justify">Possuo experiência prática em simulações realistas de adversário, desenvolvimento de shellcodes x64, manipulação de estruturas internas de processos, execução direta e indireta de syscalls, reflective DLL loading, entre outras técnicas de pós-exploração avançada.</p>
 
-<p align="justify">Meu foco é desenvolver, compreender e testar mecanismos reais de ataque com finalidade de simulação, pesquisa e melhoria de segurança hardening cross-platform. Atuo sempre no limite técnico, com responsabilidade ética e comprometimento com a integridade dos ambientes analisados.</p>
+<p align="justify">Meu foco é desenvolver, compreender e testar mecanismos reais de ataque com finalidade de simulação, pesquisa e melhoria de segurança (hardening). Atuo sempre no limite técnico, com responsabilidade ética e comprometimento com a integridade dos ambientes analisados.</p>
 
 🛠️ Especialidades Técnicas:
 <ul>
