@@ -120,8 +120,7 @@
           Windows Internals
         </li>
 </ul>
-        
-
+       
 <p align="justify">Jamais considere seus estudos como uma obrigação, mas como uma oportunidade invejável para aprender a conhecer a beleza libertadora do intelecto para seu próprio prazer pessoal e para proveito da comunidade à qual seu futuro trabalho pertencer.
 <a href="https://pt.wikipedia.org/wiki/Albert_Einstein"><br><i>Albert Einstein</i></br></a></p>
 
