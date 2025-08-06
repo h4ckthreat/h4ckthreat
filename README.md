@@ -13,7 +13,7 @@
 
 <p align="justify">Fascinado por tecnologia! Meu primeiro contato com computadores ocorreu aos meus sete anos, e desde então, tenho explorado esse incrível universo. Sou fascinado pelas oportunidades que a tecnologia oferece às pessoas e pela forma como ela simplifica nossas vidas. Meu sonho é viajar pelo mundo, compartilhando conhecimento e acumulando experiências únicas.</p>
 
-<p align="justify">Acredito firmemente que o conhecimento deve ser acessível a todos, e é por isso que criei a página h4ckthreat. Nela, ofereço conteúdo de alta qualidade gratuitamente, com o objetivo de introduzir mais pessoas ao vasto campo da segurança da informação. A página contém uma riqueza de recursos, incluindo repositórios, tutoriais e guias para orientar aqueles que estão trilhando este caminho. Minha paixão por aprender coisas novas, trabalhar em equipe e buscar novas experiências me motiva a dedicar meu tempo aos estudos, aprimorando minhas habilidades em segurança ofensiva.</p>
+<p align="justify">Acredito firmemente que o conhecimento deve ser acessível a todos, e é por isso que criei a página <a href="https://www.instagram.com/h4ckthreat/"><i>h4ckthreat</i></a>. Nela, ofereço conteúdo de alta qualidade gratuitamente, com o objetivo de introduzir mais pessoas ao vasto campo da segurança da informação. A página contém uma riqueza de recursos, incluindo repositórios, tutoriais e guias para orientar aqueles que estão trilhando este caminho. Minha paixão por aprender coisas novas, trabalhar em equipe e buscar novas experiências me motiva a dedicar meu tempo aos estudos, aprimorando minhas habilidades em segurança ofensiva.</p>
 
 <p align="justify">Além disso, sou um dos fundadores da comunidade <a href="https://www.instagram.com/lowlevelclub/"><i>Low Level Club</i></a> no Discord, junto com cinco amigos. Nossa comunidade é um espaço dedicado a estudantes que desejam se especializar em programação de baixo nível.</p>
 
@@ -23,40 +23,37 @@
 
 <p align="justify">Possuo experiência prática em simulações realistas de adversário, desenvolvimento de shellcodes x64, manipulação de estruturas internas de processos, execução direta e indireta de syscalls, reflective DLL loading, entre outras técnicas de pós-exploração avançada.</p>
 
-<p align="justify">Meu foco é desenvolver, compreender e testar mecanismos reais de ataque com finalidade de simulação, pesquisa e melhoria de segurança (hardening). Atuo sempre no limite técnico, com responsabilidade ética e comprometimento com a integridade dos ambientes analisados.</p>
+<p align="justifyMeu foco é desenvolver, compreender e testar mecanismos reais de ataque com finalidade de simulação, pesquisa e melhoria de segurança (hardening). Atuo sempre no limite técnico, com responsabilidade ética e comprometimento com a integridade dos ambientes analisados.</p>
 
 🛠️ Especialidades Técnicas:
 <ul>
       <li>
-          Red Team & Simulações de Ameaças Avançadas (Windows & Linux)
+          Red Team & Simulações de Ameaças Avançadas
        </li>
        <li>
-          Engenharia Reversa de Binários (PE/ELF)
+          Engenharia Reversa de Binários (Windows)
        </li>
        <li>
-          Shellcoding Avançado (x64, stealth, evasivo, API manual, syscalls)
+          Shellcoding Avançado (x64, stealth, evasivo, API manual)
        </li>
        <li>
-          Windows Internals (PEB, TEB, SSDT, Native API, syscalls, kernel-mode)
+          Windows Internals: PEB, TEB, SSDT, Native API, Syscalls, Kernel-mode
        </li>
        <li>
-          Linux Internals (ELF, /proc, syscall wrappers, ptrace, LD_PRELOAD)
+          Desenvolvimento de Ferramentas Ofensivas: C, C++, Assembly
       </li>
        <li>
-          Desenvolvimento de ferramentas ofensivas em C, C++, Assembly
-       </li>
-       <li>
-          Evasão de EDR/AV (unhooking, syscall spoofing, DLL/SO manual mapping)
+          Evasão de EDR/AV: Manual DLL Mapping, Unhooking, Syscall Spoofing
        </li>
        <li>
           Técnicas de Injeção: Reflective DLL Injection, Process Hollowing, DLL Proxying
        </li>
        <li>
-          Exploit Development (userland/kernel-mode Windows e Linux)
+          Exploit Development: Userland & Kernel-level
        </li>
        <li>
-          Pós-exploração Stealth em ambientes monitorados (Entrega furtiva, execução OPSEC-aware)
-      </li>
+          Pós-exploração Stealth: Entrega furtiva, execução OPSEC-aware
+       </li>
 </ul>
 
 🔒 Evasão & Execução Furtiva:
@@ -91,7 +88,7 @@
 
 <ul>
        <li>
-          C, C++, Assembly (x64), Python, PowerShell, Bash Script
+          C, C++, Assembly (x64), Python, PowerShell
        </li>
        <li>
            Loaders personalizados: Anti-debug, Anti-VM, evasão de hooks
@@ -121,9 +118,6 @@
         </li>
         <li>
           Windows Internals
-        </li>
-        <li>
-          Linux Internals
         </li>
 </ul>
         
