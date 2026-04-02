@@ -25,6 +25,8 @@
 
 <p align="justify">Meu foco é desenvolver, compreender e testar mecanismos reais de ataque com finalidade de simulação, pesquisa e melhoria de segurança (hardening). Atuo sempre no limite técnico, com responsabilidade ética e comprometimento com a integridade dos ambientes analisados.</p>
 
+<p align="justify">Também sou especialista em recuperação de dados e forense digital, com atuação em diagnóstico avançado e restauração de informações em mídias (HD, SSD, RAID e removíveis), incluindo falhas físicas e lógicas. Possuo experiência em reconstrução de sistemas de arquivos, análise em baixo nível (hexadecimal e setores) e aquisição de imagens forenses. No contexto pericial, realizo coleta, preservação e análise de evidências digitais com garantia de integridade, cadeia de custódia e conformidade legal, apoiando investigações e resposta a incidentes com alta precisão técnica.</p>
+
 🛠️ Especialidades Técnicas:
 <ul>
       <li>
