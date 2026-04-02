@@ -103,6 +103,26 @@
       </li>
 </ul>
 
+💾 Recuperação de Dados & Forense Digital:
+
+<ul>
+       <li>
+          Recuperação de dados em mídias (HD, SSD, RAID, NAS, removíveis) com falhas físicas e lógicas
+       </li>
+       <li>
+           Reconstrução de partições e sistemas de arquivos após perda, corrupção ou ataques
+       </li>
+       <li>
+          Técnicas de baixo nível: imaging forense, análise hex e leitura seletiva
+       </li>
+       <li>
+          Tratamento de bad sectors e suporte a intervenções físicas
+      </li>
+      <li>
+          Preservação de evidência com write-blocking, hashing e cadeia de custódia
+      </li>
+</ul>
+
 🔍 Áreas de interesse:
 
 <ul>
